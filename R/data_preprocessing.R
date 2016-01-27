@@ -13,28 +13,19 @@ df$is_checkout_page <- factor(df$is_checkout_page,levels=c("","t"))
 levels(df$is_checkout_page) <- c(0,1)
 df[, is_checkout_page:=as.numeric(as.character(df$is_checkout_page))]
 
-#remove milliseconds
+#convert time in POSIX format
 df[, time:=substr(df$time, 1, 19)]
+df[, time:=as.numeric(format(strptime(df$time, format="%F %T"), format="%s"))]
+setorder(df, time)
 
-#read time in POSIX format
-ptime <- strptime(df$time, format="%F %T")
-
-#time zone adjustion should be added
-#...
-
-#extract time features
-df[, hour:=as.numeric(format(ptime, "%H"))]
-df[, day_of_week:=as.numeric(format(ptime, "%w"))]
-df[, day_of_month:=as.numeric(format(ptime, "%d"))]
-df[, month:=as.numeric(format(ptime, "%m"))]
-
-#sort by time
-df[, seconds_since_epoch:=as.numeric(format(ptime, format="%s"))]
-setorder(df, seconds_since_epoch)
-df[, time:=NULL]
-
-#extract user agent features
-#...
+#aggregate data by session
+dd <- df
+df <- merge(x=df[, .(time=list(time),
+                     page_id=list(page_id),
+                     source_id=list(source_id),
+                     is_checkout_page=list(is_checkout_page)), by=session_id],
+            y=unique(df[, .(session_id, visitor_id, user_agent, cc, cloc)], by="session_id"),
+            by="session_id")
 
 #save processed data to file
-write.csv(df, file="data/preprocessed_data.csv", row.names=F)
+write.csv(df, file="data/preprocessed_data1.csv", row.names=F)
