@@ -19,13 +19,19 @@ df[, time:=as.numeric(format(strptime(df$time, format="%F %T"), format="%s"))]
 setorder(df, time)
 
 #aggregate data by session
-dd <- df
 df <- merge(x=df[, .(time=list(time),
                      page_id=list(page_id),
                      source_id=list(source_id),
                      is_checkout_page=list(is_checkout_page)), by=session_id],
             y=unique(df[, .(session_id, visitor_id, user_agent, cc, cloc)], by="session_id"),
             by="session_id")
+
+#convert to string for writing in file
+#!this should be rewriten in a smart way
+df[, time:=as.character(time)]
+df[, page_id:=as.character(page_id)]
+df[, source_id:=as.character(source_id)]
+df[, is_checkout_page:=as.character(is_checkout_page)]
 
 #save processed data to file
 write.csv(df, file="data/preprocessed_data1.csv", row.names=F)
