@@ -32,16 +32,29 @@ df[, time:=substr(df$time, 1, 19)]
 df[, time:=as.numeric(format(fast_strptime(df$time, format="%Y-%m-%d %H:%M:%S"), format="%s"))]
 setorder(df, time)
 
-#aggregate data by session
-aggregated_data <- df[, .(time=list(time),
-                          page_id=list(page_id),
-                          source_id=list(source_id),
-                          is_checkout_page=list(is_checkout_page)), by=session_id]
+#slice data and sort by session/time
+click_data <- df[, .(session_id, time, page_id, source_id, is_checkout_page)]
+setkey(click_data, session_id, time)
 
+
+
+#remove duplicated data
 session_data <- unique(df[, .(session_id, visitor_id, user_agent, cc, cloc)], by="session_id")
 
-#save aggregated_data in JSON format
-write(toJSON(aggregated_data), file="data/aggregated_data.json")
+#save click_data in CSV format
+write.csv(click_data, file="data/click_data.csv", row.names=F)
 
 #save session_data in CSV format
 write.csv(session_data, file="data/session_data.csv", row.names=F)
+
+#commented due to low performance
+# #aggregate data by session
+# aggregated_data <- df[, .(time=list(time),
+#                           page_id=list(page_id),
+#                           source_id=list(source_id),
+#                           is_checkout_page=list(is_checkout_page)), by=session_id]
+# 
+# #save aggregated_data in JSON format
+# write(toJSON(aggregated_data), file="data/aggregated_data.json")
+
+
