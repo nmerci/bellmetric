@@ -36,9 +36,9 @@ session_data <- merge(click_data[, .(start_time=min(time), is_checkout_page=max(
 
 #add time features
 ptime <- as.POSIXct(session_data$start_time, tz="UTC", origin="1970-01-01")
-session_data[, hour:=as.numeric(format(ptime, format="%H"))]
+session_data[, hour:=as.character(format(ptime, format="%H"))]
 session_data[, week_day:=as.character(format(ptime, format="%a"))]
-session_data[, month_day:=as.numeric(format(ptime, format="%d"))]
+session_data[, month_day:=as.character(format(ptime, format="%d"))]
 session_data[, year_day:=as.numeric(format(ptime, format="%j"))]
 session_data[, start_time:=NULL]
 
@@ -61,10 +61,33 @@ session_data[, cloc:=city[session_data$cloc]]
 colnames(session_data)[colnames(session_data) %in% c("cc", "cloc")] <- c("country", "city")
 
 #parse user agent column
-#...
+#this is done in python code
+
+#create visitors' history features
+#this is done in python code
+
+#prepare train data
+train_data <- session_data
+
+#remove redundant columns
+train_data[, session_id:=NULL]
+train_data[, visitor_id:=NULL]
+train_data[, user_agent:=NULL]
+
+#replace NA's
+train_data$city[is.na(train_data$city)] <- "Other"
+
+#remove outliers
+daily_checkouts <- train_data[, .(checkouts=sum(is_checkout_page)), by="year_day"]
+train_data <- train_data[!(train_data$year_day %in% 
+                             daily_checkouts$year_day[daily_checkouts$checkouts < 50])] #50 is hardcode
+train_data <- train_data[train_data$year_day != 331] #Black Friday
 
 #save session_data in CSV format
 write.csv(session_data, file="data/session_data.csv", row.names=F)
 
 #save click_data in CSV format
 write.csv(click_data, file="data/click_data.csv", row.names=F)
+
+#save train_data in CSV format
+write.csv(train_data, file="data/train_data.csv", row.names=F)

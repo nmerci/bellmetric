@@ -13,16 +13,10 @@ if(!require("ggplot2"))
 }
 
 #read data
-session_data <- fread(input="data/session_data.csv")
-
-#clean data
-daily_checkouts <- session_data[, .(checkouts=sum(is_checkout_page)), by="year_day"]
-session_data <- session_data[!(session_data$year_day %in% 
-                               daily_checkouts$year_day[daily_checkouts$checkouts < 50])]
-session_data <- session_data[session_data$year_day != 331] #Black Friday
+train_data <- fread(input="data/train_data.csv")
 
 #year trend
-continuous_session_data <- session_data[session_data$year_day > 120]
+continuous_session_data <- train_data[train_data$year_day > 120]
 daily_checkouts <- continuous_session_data[, .(checkouts=sum(is_checkout_page)), by="year_day"]
 
 ggplot(data=daily_checkouts, aes(year_day, checkouts)) + geom_point() + geom_smooth(method="lm") +
@@ -33,7 +27,7 @@ ggplot(data=daily_checkouts, aes(year_day, checkouts)) + geom_point() + geom_smo
 #ggsave(filename="figures/checkouts_per_year.jpeg")
 
 #hourly rate
-hourly_checkout <- session_data[, .(hour, is_checkout_page)]
+hourly_checkout <- train_data[, .(hour, is_checkout_page)]
 hourly_checkout$hour[hourly_checkout$hour < 4] <- hourly_checkout$hour[hourly_checkout$hour < 4] + 24
 
 ggplot(data=hourly_checkout) + 
@@ -43,10 +37,10 @@ ggplot(data=hourly_checkout) +
   ggtitle("Hourly checkout rate") + xlab("Hour") +
   scale_fill_manual(name="", values=c("r"="purple", "b"="yellow"), labels=c("r"="total", "b"="checkout"))
 
-ggsave(filename="figures/hourly_checkout_rate.jpeg")
+#ggsave(filename="figures/hourly_checkout_rate.jpeg")
 
 #month day rate
-month_day_checkout <- session_data[, .(month_day, is_checkout_page)]
+month_day_checkout <- train_data[, .(month_day, is_checkout_page)]
 
 ggplot(data=month_day_checkout) + 
   geom_density(aes(x=month_day, fill="r"), adjust=2.3, alpha=0.2) +
@@ -55,4 +49,4 @@ ggplot(data=month_day_checkout) +
   ggtitle("Month day checkout rate") + xlab("Month day") +
   scale_fill_manual(name="", values=c("r"="purple", "b"="yellow"), labels=c("r"="total", "b"="checkout"))
 
-ggsave(filename="figures/month_day_checkout_rate.jpeg")
+#ggsave(filename="figures/month_day_checkout_rate.jpeg")
