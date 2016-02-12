@@ -60,11 +60,26 @@ session_data[, cloc:=city[session_data$cloc]]
 #rename variables
 colnames(session_data)[colnames(session_data) %in% c("cc", "cloc")] <- c("country", "city")
 
+#add first source and page id's
+first_source_page <- unique(click_data[, .(session_id, first_source=source_id, first_page=page_id)], 
+                            by="session_id")
+session_data <- merge(session_data, first_source_page, by="session_id")
+
+#add number of events per session
+n_events <- click_data[, .(n_events=length(is_checkout_page)), by="session_id"]
+session_data <- merge(session_data, n_events, by="session_id")
+
 #parse user agent column
 #this is done in python code
+session_data[, user_agent:=NULL]
 
 #create visitors' history features
 #this is done in python code
+
+#get pages
+session_pages <- click_data[, .(pages=list(c(page_id))), by="session_id"]
+session_pages$pages <- lapply(session_pages$pages, append, values=0)
+write(x=unlist(session_pages$pages), file="data/pages.csv")
 
 #prepare train data
 train_data <- session_data
