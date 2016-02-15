@@ -1,0 +1,21 @@
+server <- function()
+{
+  while (TRUE)
+  {
+    writeLines("Listening...")
+    con <- socketConnection(host = "localhost", port = 6011, blocking = TRUE, 
+                            server = TRUE, open = "r+")
+    
+    data <- readLines(con, 1)
+    print(data)
+    
+    
+    
+    #response <- paste("Lublu", data)
+    writeLines(response, con)
+    
+    close(con)
+  }
+}
+
+server()

@@ -29,6 +29,9 @@ setorder(df, time)
 click_data <- df[, .(session_id, time, page_id, source_id, is_checkout_page)]
 setkey(click_data, session_id, time)
 
+#save click_data in CSV format
+write.csv(click_data, file="data/click_data.csv", row.names=F)
+
 #remove duplicated data
 session_data <- unique(df[, .(session_id, visitor_id, user_agent, cc, cloc)], by="session_id")
 session_data <- merge(click_data[, .(start_time=min(time), is_checkout_page=max(is_checkout_page)), by="session_id"],
@@ -71,38 +74,27 @@ session_data <- merge(session_data, n_events, by="session_id")
 
 #parse user agent column
 #this is done in python code
+#TODO: implement it here or use rPython
 session_data[, user_agent:=NULL]
 
 #create visitors' history features
 #this is done in python code
 
-#get pages
-session_pages <- click_data[, .(pages=list(c(page_id))), by="session_id"]
-session_pages$pages <- lapply(session_pages$pages, append, values=0)
-write(x=unlist(session_pages$pages), file="data/pages.csv")
-
-#prepare train data
-train_data <- session_data
-
-#remove redundant columns
-train_data[, session_id:=NULL]
-train_data[, visitor_id:=NULL]
-train_data[, user_agent:=NULL]
-
-#replace NA's
-train_data$city[is.na(train_data$city)] <- "Other"
-
-#remove outliers
-daily_checkouts <- train_data[, .(checkouts=sum(is_checkout_page)), by="year_day"]
-train_data <- train_data[!(train_data$year_day %in% 
-                             daily_checkouts$year_day[daily_checkouts$checkouts < 50])] #50 is hardcode
-train_data <- train_data[train_data$year_day != 331] #Black Friday
-
 #save session_data in CSV format
 write.csv(session_data, file="data/session_data.csv", row.names=F)
 
-#save click_data in CSV format
-write.csv(click_data, file="data/click_data.csv", row.names=F)
+#calculate distribution for number of events
+events_distribution <- as.data.frame(table(session_data$n_events))
+events_distribution$Freq <- events_distribution$Freq / nrow(session_data)
+events_distribution <- events_distribution[order(events_distribution$Var1), ]
+colnames(events_distribution) <- c("n_events", "probability")
 
-#save train_data in CSV format
-write.csv(train_data, file="data/train_data.csv", row.names=F)
+#save events_distribution in CSV format
+write.csv(events_distribution, file="data/events_distribution.csv", row.names=F)
+
+#concatenate pages
+pages_sequence <- click_data[, .(page=list(c(page_id))), by="session_id"]
+pages_sequence$page <- lapply(pages_sequence$page, append, values=0)
+
+#save pages_sequence in CSV format
+write.csv(unlist(pages_sequence$page), file="data/pages.csv", row.names=F)
