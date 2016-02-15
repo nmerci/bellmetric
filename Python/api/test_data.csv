@@ -1,0 +1,1001 @@
+"visitor_id","session_id","time","page_id","source_id","user_agent","is_checkout_page","cc","cloc"
+57728095,119836362,"2016-12-15 14:46:38.510619",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445683
+69209786,119839881,"2016-12-15 14:47:55.398658",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445780
+69209805,119839908,"2016-12-15 14:48:04.314463",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445819
+69209786,119839881,"2016-12-15 14:48:31.686497",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445780
+69180040,119834882,"2016-12-15 14:49:14.762672",16108133,"","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)","","DK",59
+64108177,119840379,"2016-12-15 14:49:43.762168",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",705419
+57419847,119887243,"2016-12-15 17:52:06.008583",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",59
+69210407,119841094,"2016-12-15 14:52:15.918632",17688158,30004.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445652
+69210670,119841590,"2016-12-15 14:54:18.03286",17666862,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69034444,119842061,"2016-12-15 14:56:07.249853",11830882,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445724
+69210670,119841590,"2016-12-15 14:54:07.332886",4,38.0,"Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69210819,119841892,"2016-12-15 14:55:21.118904",4,1.0,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445763
+69210867,119841989,"2016-12-15 14:55:40.845054",4,30473.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69034444,119842061,"2016-12-15 14:55:54.674646",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445724
+69186346,119842168,"2016-12-15 14:56:22.507364",23102373,26875.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; dukaPC 2.7.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.16 Safari/537.36","","DK",59
+69034444,119842061,"2016-12-15 14:56:30.411149",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445724
+60605423,119832731,"2016-12-15 14:57:08.022646",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+67293074,119841825,"2016-12-15 14:57:14.937667",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","EU",3
+69211086,119842411,"2016-12-15 14:57:15.247876",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445680
+35359362,119842767,"2016-12-15 14:58:42.45124",23102549,8546.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445683
+67909428,119843188,"2016-12-15 15:00:18.613718",23102653,26878.0,"Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",59
+69202325,119841326,"2016-12-15 15:01:05.209166",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66183500,118590792,"2016-12-10 17:58:01.861364",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+65351176,119843213,"2016-12-15 15:04:26.23152",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",530741
+54579906,119844470,"2016-12-15 15:05:20.862803",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A344 Safari/601.1","","DK",445630
+52236594,119844489,"2016-12-15 15:05:24.92954",11830882,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko","","DK",445673
+34617447,119844666,"2016-12-15 15:06:01.501259",641204,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53","","DK",705419
+61065588,119844729,"2016-12-15 15:06:15.752461",4,38.0,"Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445672
+62203152,119842613,"2016-12-15 15:06:14.495723",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",59
+69212390,119844997,"2016-12-15 15:07:18.089866",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36 PTST/253","","IE",20632
+69212390,119844997,"2016-12-15 15:07:57.306759",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36 PTST/253","","IE",20632
+66099426,119845898,"2016-12-15 15:11:02.498977",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/6.2.6 Safari/537.85.15","","DK",726350
+62747430,119845630,"2016-12-15 15:11:03.250539",4,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",445712
+62211520,119845118,"2016-12-15 15:11:28.494698",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko","","DK",445693
+69213108,119846389,"2016-12-15 15:13:01.8893",4,1.0,"Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",59
+33450930,119835279,"2016-12-15 15:12:48.722489",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+33450930,119835279,"2016-12-15 15:12:51.092045",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69213198,119846570,"2016-12-15 15:13:36.901337",18287176,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445725
+68396221,119846777,"2016-12-15 15:14:22.413959",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445683
+60860043,119847090,"2016-12-15 15:15:38.024923",23103685,40925.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+45290926,119847229,"2016-12-15 15:16:08.034151",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",705419
+66183500,118237021,"2016-12-09 23:47:37.753184",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69213544,119847202,"2016-12-15 15:16:02.197189",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445672
+69213551,119847216,"2016-12-15 15:16:04.138733",4,38.0,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","EU",3
+69213307,119846770,"2016-12-15 15:16:58.18074",114,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+35317171,63549442,"2016-01-04 07:28:23.503926",32203,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69213912,119847862,"2016-12-15 15:19:03.851975",184621,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445843
+66450705,119847112,"2016-12-15 15:20:46.18284",23104042,40925.0,"Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; Microsoft; Lumia 640 LTE) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537","","NO",456167
+69214367,119848752,"2016-12-15 15:22:10.4363",23104117,40925.0,"Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",59
+67775303,119848772,"2016-12-15 15:22:14.772476",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",445660
+60860043,119847090,"2016-12-15 15:22:31.252541",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+60860043,119847090,"2016-12-15 15:22:34.833498",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+45410918,119848899,"2016-12-15 15:22:48.81178",23104151,40925.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445791
+69214428,119848858,"2016-12-15 15:22:39.810378",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","ES",68
+69234269,119887347,"2016-12-15 17:52:31.0448",11913107,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69190127,119848478,"2016-12-15 15:23:15.787297",21854612,"","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)","","SE",190
+69214556,119849098,"2016-12-15 15:23:31.290199",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+67775303,119848772,"2016-12-15 15:23:40.800672",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",445660
+67775303,119848772,"2016-12-15 15:23:59.164736",1808,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",445660
+69214709,119849415,"2016-12-15 15:24:49.406908",23104278,"","Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3","","DK",445798
+66924130,119849317,"2016-12-15 15:25:04.090373",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75","","DK",59
+69197391,119848832,"2016-12-15 15:25:07.590381",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445807
+69214367,119848752,"2016-12-15 15:25:32.543315",23104117,40925.0,"Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",59
+66924130,119849317,"2016-12-15 15:25:39.404216",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75","","DK",59
+69214842,119849683,"2016-12-15 15:25:54.773855",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",705419
+69232389,119883887,"2016-12-15 18:11:42.948018",21978475,8546.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445844
+69214915,119849823,"2016-12-15 15:26:27.17816",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MATMJS; rv:11.0) like Gecko","","DK",59
+34802271,119849922,"2016-12-15 15:26:52.662963",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",532222
+52727744,119850095,"2016-12-15 15:27:33.316576",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+67722495,119850088,"2016-12-15 15:27:31.315109",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",524373
+69215120,119850200,"2016-12-15 15:27:56.405942",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","SE",468187
+65988569,119887365,"2016-12-15 17:52:39.778838",4,51799.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445699
+69214556,119849098,"2016-12-15 15:28:16.540869",16087282,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+64578563,119850399,"2016-12-15 15:28:43.873195",4,51799.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69215218,119850400,"2016-12-15 15:28:44.140145",23104532,30004.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69211368,119842957,"2016-12-15 15:29:04.165363",1808,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",726349
+69214870,119849731,"2016-12-15 15:30:10.92397",16096216,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445725
+69214054,119848124,"2016-12-15 15:30:20.638765",22752921,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69215233,119850439,"2016-12-15 15:34:24.857026",23063670,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445671
+68905467,119859773,"2016-12-15 16:12:59.986787",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445842
+66183500,118237021,"2016-12-10 01:41:52.49518",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69215120,119850200,"2016-12-15 15:39:18.948817",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","SE",468187
+69215233,119850439,"2016-12-15 15:31:33.677474",23063670,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445671
+69221762,119863073,"2016-12-15 16:18:12.789666",23108043,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445789
+69215553,119851039,"2016-12-15 15:31:47.878633",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MATMJS; rv:11.0) like Gecko","","DK",445757
+69214870,119849731,"2016-12-15 15:31:55.54652",16096216,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445725
+69215673,119851265,"2016-12-15 15:32:11.678541",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445677
+64939302,119851827,"2016-12-15 15:34:16.456541",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445862
+69215792,119851494,"2016-12-15 15:33:03.151494",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445712
+69207930,119851712,"2016-12-15 15:33:47.209383",16087282,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10","","DK",445632
+69215927,119851744,"2016-12-15 15:33:57.121003",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",59
+69215673,119851265,"2016-12-15 15:34:52.711931",11830882,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445677
+69215506,119850944,"2016-12-15 15:36:42.166103",23105090,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",524534
+69215506,119850944,"2016-12-15 15:37:06.308928",23105129,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",524534
+69215506,119850944,"2016-12-15 15:37:09.156191",23105129,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",524534
+69216479,119852798,"2016-12-15 15:38:02.890463",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445738
+69216479,119852798,"2016-12-15 15:37:59.130166",4,42.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445738
+69215120,119850200,"2016-12-15 15:38:11.839778",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","SE",468187
+69216538,119852930,"2016-12-15 15:38:30.053169",18288960,87.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445755
+69215120,119850200,"2016-12-15 15:38:46.349658",16087282,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","SE",468187
+69172118,119853023,"2016-12-15 15:38:52.541683",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445665
+27491657,119840581,"2016-12-15 15:39:28.35754",23105288,26875.0,"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",59
+65483832,118605279,"2016-12-10 18:25:41.750945",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445736
+69182380,119854077,"2016-12-15 15:43:04.883193",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:43.0) Gecko/20100101 Firefox/43.0","","DK",445725
+65947679,119853356,"2016-12-15 15:40:12.61341",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+60338718,119853463,"2016-12-15 15:40:39.690355",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445667
+69215120,119850200,"2016-12-15 15:40:29.725113",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","SE",468187
+30098077,119849461,"2016-12-15 15:40:39.414616",16086125,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445708
+69207153,119854367,"2016-12-15 15:46:35.678096",4,"","Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13A452 Safari/600.1.4","","DK",445786
+66183500,118237021,"2016-12-10 01:54:53.619308",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+67794127,119853950,"2016-12-15 15:42:34.341826",22155826,13289.0,"Mozilla/5.0 (Linux; Android 4.2.2; C6903 Build/14.1.G.1.534) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",533341
+69217073,119853965,"2016-12-15 15:42:38.005621",4,2.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","NO",162
+59693072,119854303,"2016-12-15 15:43:51.568143",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/537.86.2","","DK",457698
+67302917,119854513,"2016-12-15 15:44:47.299565",23105633,26883.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445683
+69217435,119854683,"2016-12-15 15:45:27.530789",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69217435,119854683,"2016-12-15 15:46:40.582718",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+64939302,119851827,"2016-12-15 15:45:23.870688",16101925,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445862
+64897860,119854612,"2016-12-15 15:45:13.187921",4,1.0,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36","","DK",445761
+65988569,119887365,"2016-12-15 17:53:03.068015",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445699
+64939302,119851827,"2016-12-15 15:46:03.110581",16101925,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445862
+69207153,119854367,"2016-12-15 15:46:15.241817",4,"","Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13A452 Safari/600.1.4","","DK",445786
+69207153,119854367,"2016-12-15 15:46:23.185142",4,"","Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13A452 Safari/600.1.4","","DK",445786
+69216479,119852798,"2016-12-15 15:47:19.807106",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445738
+69216479,119852798,"2016-12-15 15:47:29.833616",4,42.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445738
+68932122,119855265,"2016-12-15 15:47:44.805739",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445819
+69234269,119887347,"2016-12-15 17:53:05.991274",11913107,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+64939302,119851827,"2016-12-15 15:48:36.683869",16101925,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445862
+69218249,119856235,"2016-12-15 15:51:28.313984",23106046,40925.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",530046
+69234357,119887491,"2016-12-15 17:53:13.17646",19764709,13289.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",705419
+69216446,119852749,"2016-12-15 15:49:58.698491",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69218063,119855872,"2016-12-15 15:50:12.818981",23105974,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46.45.1 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3","","DK",445702
+69218093,119855926,"2016-12-15 15:50:25.34599",4,1.0,"Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)","","DK",705419
+69218249,119856235,"2016-12-15 15:51:34.405676",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",530046
+53603935,119891666,"2016-12-15 18:12:21.970136",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",59
+64897860,119854612,"2016-12-15 15:52:52.167469",16100848,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36","","DK",445761
+69198117,119856837,"2016-12-15 15:53:54.157199",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko","","DK",532223
+55284318,119852521,"2016-12-15 15:54:29.000552",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66453801,119856983,"2016-12-15 15:54:30.559916",23106264,40925.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445819
+69217626,119855038,"2016-12-15 15:54:56.549143",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+59821653,119857126,"2016-12-15 15:55:00.403545",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445684
+59821653,119857126,"2016-12-15 15:55:04.157393",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445684
+69217619,119855026,"2016-12-15 15:55:20.629785",4,"","Mozilla/5.0 (Linux; Android 5.0.2; HTC One Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",705419
+69218764,119857272,"2016-12-15 15:55:47.434854",16095594,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+59821653,119857126,"2016-12-15 15:55:53.382221",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445684
+69220355,119860374,"2016-12-15 16:13:28.969203",21849926,13289.0,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445781
+59466703,119857425,"2016-12-15 15:56:15.685298",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445639
+63311794,119857676,"2016-12-15 15:57:08.045333",23106465,26875.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",677160
+63311794,119857676,"2016-12-15 15:57:15.264882",23106465,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",677160
+60605423,119832731,"2016-12-15 15:57:31.588213",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69218957,119857664,"2016-12-15 15:57:27.869351",23106491,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445765
+69218764,119857272,"2016-12-15 15:57:33.506759",16095594,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+59122077,119857952,"2016-12-15 15:58:08.867327",4,30303.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MALCJS; rv:11.0) like Gecko","","DK",59
+66183500,118237021,"2016-12-10 01:44:42.706648",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+51581594,119857540,"2016-12-15 15:59:20.979342",16395501,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445712
+64236126,119858260,"2016-12-15 15:59:19.914223",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69235700,119889985,"2016-12-15 18:11:47.456426",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445826
+65731761,119861295,"2016-12-15 16:13:30.564697",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+53603935,119891666,"2016-12-15 18:11:48.19644",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",59
+68425109,119858932,"2016-12-15 16:02:02.782789",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445751
+59122077,119857952,"2016-12-15 16:02:52.369921",4,30303.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MALCJS; rv:11.0) like Gecko","","DK",59
+53994391,119859250,"2016-12-15 16:03:12.27798",23106905,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+68140762,119844469,"2016-12-15 16:03:40.233959",23001657,30008.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+68140762,119844469,"2016-12-15 16:04:17.680978",23001657,30008.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69220010,119859700,"2016-12-15 16:05:31.398767",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+65968527,119859613,"2016-12-15 16:04:36.650977",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445671
+65968527,119859613,"2016-12-15 16:04:47.172933",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445671
+65968527,119859613,"2016-12-15 16:05:24.037426",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445671
+55686253,119859875,"2016-12-15 16:05:45.123142",23107104,40925.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+65968527,119859613,"2016-12-15 16:06:04.163138",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445671
+65968527,119859613,"2016-12-15 16:06:29.776764",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445671
+55686253,119859875,"2016-12-15 16:06:38.468883",23107104,40925.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69220243,119860181,"2016-12-15 16:07:04.151984",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445725
+65968527,119859613,"2016-12-15 16:07:13.291388",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445671
+69234402,119887564,"2016-12-15 17:53:37.8864",17666862,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445798
+66083680,119860401,"2016-12-15 16:07:51.956791",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0","","US",2404
+69220343,119860351,"2016-12-15 16:07:42.150676",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445651
+69220355,119860374,"2016-12-15 16:07:47.881153",21849926,13289.0,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445781
+29762699,119860434,"2016-12-15 16:07:58.789484",23107263,8546.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69220450,119860557,"2016-12-15 16:08:24.761216",11830882,1.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",524565
+64897860,119854612,"2016-12-15 16:08:45.442396",4,1.0,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36","","DK",445761
+30103220,63738000,"2016-01-05 12:38:03.48294",114,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",445632
+59145570,119861635,"2016-12-15 16:12:47.365168",11830882,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13B143 Safari/600.1.4","","DK",59
+69220681,119861018,"2016-12-15 16:10:15.77081",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445685
+69234296,119887392,"2016-12-15 17:53:42.255957",4,"","Mozilla/5.0 (Linux; U; Android 4.2.2; da-dk; SM-T110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","","DK",59
+69218764,119857272,"2016-12-15 16:10:08.27878",23107419,30003.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+69218764,119857272,"2016-12-15 16:10:26.365887",16095594,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+68399534,119860627,"2016-12-15 16:10:21.985672",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445760
+69220748,119861131,"2016-12-15 16:10:45.372186",4,42.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",445687
+69220681,119861018,"2016-12-15 16:11:08.753954",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445685
+69220925,119861480,"2016-12-15 16:13:41.759708",17666862,"","Mozilla/5.0 (Linux; Android 4.4.4; SM-T560 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",524426
+68506273,118550077,"2016-12-10 14:45:36.597136",20995305,87.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69234296,119887392,"2016-12-15 17:54:32.533236",17666862,"","Mozilla/5.0 (Linux; U; Android 4.2.2; da-dk; SM-T110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","","DK",59
+69234553,119887863,"2016-12-15 17:54:45.355251",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",524177
+69234553,119887863,"2016-12-15 17:55:02.942129",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",524177
+69199526,119887954,"2016-12-15 17:55:06.671729",23125981,30006.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445784
+69234647,119888045,"2016-12-15 17:55:27.003544",23126014,40925.0,"Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; NOKIA; Lumia 630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586","","DK",445760
+69234647,119888045,"2016-12-15 17:55:55.487621",23126014,40925.0,"Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; NOKIA; Lumia 630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586","","DK",445760
+50590998,119888189,"2016-12-15 17:56:04.469556",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445776
+66183500,118237021,"2016-12-10 01:56:58.884103",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69234647,119888045,"2016-12-15 17:56:44.405135",23126014,40925.0,"Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; NOKIA; Lumia 630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.10586","","DK",445760
+69234827,119888400,"2016-12-15 17:56:56.671851",16803493,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3","","DK",726349
+69234463,119887689,"2016-12-15 17:57:04.931398",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445672
+69231851,119882764,"2016-12-15 17:57:40.495324",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524177
+68575151,119888643,"2016-12-15 17:57:57.115341",4,38.0,"Mozilla/5.0 (Windows NT 6.1; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",705419
+69231851,119882764,"2016-12-15 17:58:01.595545",23126183,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524177
+69235034,119888776,"2016-12-15 17:58:33.122505",17688158,30004.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445636
+69231851,119882764,"2016-12-15 17:59:35.735205",23118575,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524177
+68053142,119886117,"2016-12-15 18:00:36.40344",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445824
+56861704,119888337,"2016-12-15 18:00:55.491648",18317761,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/537.86.2","","DK",445837
+69233339,119885687,"2016-12-15 18:01:23.209979",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445678
+69234553,119887863,"2016-12-15 18:01:21.59421",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",524177
+69199526,119887954,"2016-12-15 18:01:40.504127",23125981,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445784
+69235508,119889635,"2016-12-15 18:02:15.942863",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445689
+45273543,119889641,"2016-12-15 18:02:16.665921",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445751
+68529742,118592919,"2016-12-10 17:22:31.091916",16101925,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",524354
+56861704,119888337,"2016-12-15 18:03:04.053637",18317761,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/537.86.2","","DK",445837
+69231851,119882764,"2016-12-15 18:03:17.211958",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524177
+69235758,119890091,"2016-12-15 18:04:19.028107",4,51799.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 [FBAN/FBIOS;FBAV/45.0.0.45.96;FBBV/18289579;FBDV/iPhone8,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.1;FBSS/2; FBCR/TELIA;FBID/phone;FBLC/da_DK;FBOP/5]","","DK",59
+69080483,119890068,"2016-12-15 18:04:13.386648",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445678
+49107550,119890073,"2016-12-15 18:04:14.07346",4,38.0,"Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",445746
+69231228,119881585,"2016-12-15 18:06:12.872714",4,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",59
+69235902,119890364,"2016-12-15 18:05:39.668526",11830882,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445658
+69234123,119887078,"2016-12-15 18:06:48.737282",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",705419
+66183500,118237021,"2016-12-10 01:47:53.197678",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+47536812,118550090,"2016-12-10 14:45:42.05345",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",59
+56338321,119890661,"2016-12-15 18:06:58.503447",1808,38.0,"Mozilla/5.0 (Linux; Android 5.1.1; D2403 Build/18.6.A.0.175) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",705419
+69236094,119890729,"2016-12-15 18:07:13.784014",20235962,13289.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445637
+69236151,119890839,"2016-12-15 18:07:45.370025",4,38.0,"Mozilla/5.0 (Linux; Android 4.4.2; GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445725
+69232972,119884975,"2016-12-15 18:07:25.615403",23128060,1243.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko","t","DK",445721
+69235692,119889974,"2016-12-15 18:07:42.2623",19849640,13289.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",530202
+69236209,119890961,"2016-12-15 18:08:20.679227",23128649,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+69235907,119890376,"2016-12-15 18:09:47.002281",16593279,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 01:52:40.926778",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69235907,119890376,"2016-12-15 18:10:39.644023",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118590792,"2016-12-10 18:25:58.50696",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 01:59:24.189185",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69236828,119892121,"2016-12-15 18:13:52.729723",21849926,13289.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445683
+68987772,119426676,"2016-12-14 09:01:07.637868",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12","","DE",57
+69236945,119892337,"2016-12-15 18:15:08.276048",16095594,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DE",356724
+66183500,118237021,"2016-12-10 02:02:50.67371",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68396198,118405043,"2016-12-10 02:03:23.189236",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445663
+68428890,118405049,"2016-12-10 02:04:07.671446",16087282,"","Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)","","DK",445772
+69236495,119891490,"2016-12-15 18:17:34.764293",19996810,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MANM; rv:11.0) like Gecko","","DK",532257
+66183500,118237021,"2016-12-10 02:20:26.869613",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69237346,119893094,"2016-12-15 18:18:45.80165",23135001,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+59647329,118593256,"2016-12-10 17:25:04.050362",16100848,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+66183500,118237021,"2016-12-10 02:05:05.610561",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 02:22:29.381612",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68476798,118593113,"2016-12-10 17:22:53.623895",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445708
+67546853,119892583,"2016-12-15 18:31:06.110954",18345683,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",530067
+69238132,119894550,"2016-12-15 18:31:17.339968",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","NO",453598
+69238887,119895912,"2016-12-15 18:32:10.600508",4,38.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445704
+60457628,119895485,"2016-12-15 18:32:25.281991",21953285,"","Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36","","DK",59
+69080483,119890068,"2016-12-15 18:32:39.577687",23138425,13289.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445678
+69238915,119895969,"2016-12-15 18:32:36.937608",16087282,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",59
+62356585,119896154,"2016-12-15 18:33:20.278103",4,"","Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",531611
+29269853,119896091,"2016-12-15 18:33:21.064565",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445672
+69239029,119896168,"2016-12-15 18:33:24.335683",16087282,1.0,"Mozilla/5.0 (Linux; Android 4.2.2; da-dk; SAMSUNG GT-I9195 Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Version/1.0 Chrome/18.0.1025.308 Mobile Safari/535.19","","DK",445721
+69239106,119896309,"2016-12-15 18:34:08.489215",23138530,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69239250,119896577,"2016-12-15 18:35:27.50068",4,1.0,"Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",468294
+69171817,119896545,"2016-12-15 18:35:17.275795",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69171817,119896545,"2016-12-15 18:36:03.227766",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+68173533,118545655,"2016-12-10 14:46:35.345881",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445803
+69239250,119896577,"2016-12-15 18:36:05.191605",4,1.0,"Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",468294
+69239389,119896843,"2016-12-15 18:36:41.896171",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",59
+61521939,119896879,"2016-12-15 18:36:52.465926",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445688
+69239388,119896842,"2016-12-15 18:37:52.115171",19849640,13289.0,"Mozilla/5.0 (Linux; Android 4.4.2; SM-G800F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445738
+69239086,119896277,"2016-12-15 18:38:48.611538",22037733,30233.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524181
+69239388,119896842,"2016-12-15 18:38:54.027552",19849640,13289.0,"Mozilla/5.0 (Linux; Android 4.4.2; SM-G800F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445738
+67937740,119897471,"2016-12-15 18:39:44.051245",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",530046
+69239086,119896277,"2016-12-15 18:39:40.690774",22037733,30233.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524181
+68537993,118607799,"2016-12-10 18:27:36.259546",16100848,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445689
+69239086,119896277,"2016-12-15 18:39:46.136193",22037733,30233.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524181
+69243869,119905107,"2016-12-15 19:15:54.129475",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+69238720,119895599,"2016-12-15 18:40:56.30139",4,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445665
+36690738,119890434,"2016-12-15 18:40:55.382695",22911146,30004.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445739
+69239853,119897734,"2016-12-15 18:40:55.386023",21849926,13289.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445659
+65330250,119897828,"2016-12-15 18:41:19.580203",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",705419
+45331815,119897835,"2016-12-15 18:41:21.418902",4,38.0,"Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1.4","","DK",705419
+66183500,118237021,"2016-12-10 02:07:35.859462",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+63771295,119897924,"2016-12-15 18:41:49.566789",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/537.86.2","","DK",445708
+63771295,119897924,"2016-12-15 18:42:25.481241",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/537.86.2","","DK",445708
+69240067,119898147,"2016-12-15 18:42:43.838561",16085961,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445684
+67917496,118398366,"2016-12-09 23:52:14.005828",16395501,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445666
+69240067,119898147,"2016-12-15 18:43:25.885182",16085961,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445684
+60605423,119898265,"2016-12-15 18:43:14.265174",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69240139,119898292,"2016-12-15 18:43:23.68654",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+66183500,118237021,"2016-12-10 02:09:40.954454",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69240157,119898321,"2016-12-15 18:43:32.256396",147654,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13B143 Safari/600.1.4","","DK",445637
+69156942,119898359,"2016-12-15 18:43:42.807103",16096216,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445819
+69240238,119898465,"2016-12-15 18:44:07.312492",20765608,30233.0,"Mozilla/5.0 (Windows NT 6.1; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69240240,119898467,"2016-12-15 18:44:07.646595",4,38.0,"Mozilla/5.0 (Android 5.0.2; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0","","DK",445672
+69156942,119898359,"2016-12-15 18:45:40.706951",16096216,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445819
+68506384,118550298,"2016-12-10 14:46:26.437481",22190582,13289.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",705419
+69240391,119898753,"2016-12-15 18:45:18.174846",23141234,26875.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3","","DK",445725
+66183500,118237021,"2016-12-10 02:27:38.667893",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 02:11:40.696225",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69240457,119898875,"2016-12-15 18:45:44.127401",23141440,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",532258
+44850914,79463808,"2016-05-04 22:10:05.432879",4,"","Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/42.0.2311.47 Mobile/12F69 Safari/600.1.4","","DK",59
+35637004,119899070,"2016-12-15 18:46:37.16997",4,38.0,"Mozilla/5.0 (Linux; Android 4.4.2; D2005 Build/20.1.A.2.19) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36","","DK",445769
+69240240,119898467,"2016-12-15 18:46:53.144036",16087282,"","Mozilla/5.0 (Android 5.0.2; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0","","DK",445672
+69240457,119898875,"2016-12-15 18:47:06.500939",23141440,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",532258
+69240678,119899325,"2016-12-15 18:47:48.743608",23142714,26883.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",530064
+36690738,119890434,"2016-12-15 18:48:05.164511",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445739
+68423415,118396694,"2016-12-09 23:52:52.27075",4,"","Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A452 Safari/601.1","","DK",59
+69240240,119898467,"2016-12-15 18:48:21.934427",16087282,"","Mozilla/5.0 (Android 5.0.2; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0","","DK",445672
+69240678,119899325,"2016-12-15 18:48:22.631206",23142714,26883.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",530064
+67634897,119898881,"2016-12-15 18:49:17.567197",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 02:15:24.158808",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69242554,119902773,"2016-12-15 19:05:54.065882",16345073,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69243000,119903565,"2016-12-15 19:06:07.000749",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",705419
+69240238,119898465,"2016-12-15 19:07:12.226652",20771105,38.0,"Mozilla/5.0 (Windows NT 6.1; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+54802941,119893988,"2016-12-15 19:07:03.24238",22053369,30003.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko","","DK",445680
+69243092,119903747,"2016-12-15 19:10:40.222814",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",530265
+69239853,119897734,"2016-12-15 19:08:07.071319",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445659
+69243448,119904371,"2016-12-15 19:09:58.092608",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69243511,119904484,"2016-12-15 19:10:24.295161",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69241827,119901476,"2016-12-15 19:11:29.907728",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445776
+69073633,119904778,"2016-12-15 19:11:39.637366",4,1.0,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445656
+69243092,119903747,"2016-12-15 19:13:34.292229",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",530265
+69242554,119902773,"2016-12-15 19:15:41.85265",114,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+55341037,119903090,"2016-12-15 19:12:45.860404",119110,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13B143 Safari/601.1.46","","DK",445761
+69242554,119902773,"2016-12-15 19:13:34.198566",114,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+67185188,119905390,"2016-12-15 19:14:23.62553",4,38.0,"Mozilla/5.0 (Linux; Android 5.1.1; D5503 Build/14.6.A.1.236) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",59
+69243869,119905107,"2016-12-15 19:13:12.558847",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+68785528,119905302,"2016-12-15 19:13:57.168627",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",59
+27896122,119905352,"2016-12-15 19:14:12.001133",20586040,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445708
+67185188,119905390,"2016-12-15 19:14:40.713315",4,38.0,"Mozilla/5.0 (Linux; Android 5.1.1; D5503 Build/14.6.A.1.236) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",59
+27528673,119913006,"2016-12-15 19:47:00.085331",23161263,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445691
+69244258,119905823,"2016-12-15 19:16:21.166642",11830882,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445751
+69244370,119906040,"2016-12-15 19:17:23.38805",23151170,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445656
+69243869,119905107,"2016-12-15 19:17:18.709534",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+67209567,119906106,"2016-12-15 19:17:41.993388",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",445687
+66269833,119906376,"2016-12-15 19:18:53.547538",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",530053
+69244326,119905958,"2016-12-15 19:18:01.558429",16087282,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+66654583,119906265,"2016-12-15 19:18:23.178177",23151625,40925.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+46682638,119906278,"2016-12-15 19:18:27.594398",11830882,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445697
+68663810,118844333,"2016-12-11 15:25:46.14663",16087282,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",445708
+68424466,118398471,"2016-12-09 23:53:15.631944",4,38.0,"Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)","","EU",3
+69244621,119906512,"2016-12-15 19:19:43.708489",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445632
+69245430,119907994,"2016-12-15 19:25:56.545758",3142,23916.0,"Mozilla/5.0 (Linux; Android 6.0; HTC One A9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 02:17:36.371347",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69244765,119906771,"2016-12-15 19:20:37.151822",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445705
+46506828,119906899,"2016-12-15 19:21:12.013711",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10","","DK",445646
+69239806,119897633,"2016-12-15 19:22:29.682055",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13B143 Safari/600.1.4","","DK",445655
+69239853,119897734,"2016-12-15 19:21:53.981963",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445659
+69243863,119905093,"2016-12-15 19:22:13.807827",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445704
+69244942,119907088,"2016-12-15 19:22:01.072538",23153602,40925.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",525160
+69241827,119901476,"2016-12-15 19:22:01.578357",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445776
+69245067,119907326,"2016-12-15 19:23:01.668217",4,38.0,"Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 02:33:11.067847",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69248349,119913231,"2016-12-15 19:46:31.911584",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",530089
+68265171,119906854,"2016-12-15 19:23:43.699481",16087282,"","Mozilla/5.0 (Linux; Android 4.4.2; YOGA Tablet 2-1050F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",59
+69126274,119906053,"2016-12-15 19:23:49.075721",12004347,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13C75 Safari/601.1.46","","DK",59
+69244940,119907086,"2016-12-15 19:24:16.504014",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69245242,119907661,"2016-12-15 19:24:38.173372",4,1.0,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69244662,119906595,"2016-12-15 19:24:53.160876",21953285,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",532247
+66696419,119907884,"2016-12-15 19:25:32.136206",4,38.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445677
+66183500,118237021,"2016-12-10 02:24:34.621522",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69245734,119908559,"2016-12-15 19:28:10.153445",23157023,40925.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445644
+66696419,119907884,"2016-12-15 19:26:21.433174",4,38.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445677
+66183500,118237021,"2016-12-10 02:37:51.155905",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+58752342,119908208,"2016-12-15 19:26:48.050495",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445725
+68803116,119909530,"2016-12-15 19:32:09.655759",4,"","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; 3F)","","DK",445797
+69239853,119897734,"2016-12-15 19:27:01.334871",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445659
+52000117,119908276,"2016-12-15 19:27:08.562635",4,38.0,"Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 920) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537","","DK",707004
+69202325,119908367,"2016-12-15 19:27:31.786327",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 02:29:58.871112",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69245629,119908378,"2016-12-15 19:27:35.060434",23156764,26883.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445781
+66696419,119907884,"2016-12-15 19:27:36.811322",4,38.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445677
+68374533,118567284,"2016-12-10 15:48:59.945358",17450407,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445725
+50818472,119908708,"2016-12-15 19:28:37.436998",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+69245919,119908868,"2016-12-15 19:29:05.588269",4,319.0,"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4","","DK",445763
+55341037,119903090,"2016-12-15 19:30:33.86381",119110,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13B143 Safari/601.1.46","","DK",445761
+65646307,118516304,"2016-12-10 12:54:56.884495",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69246162,119909343,"2016-12-15 19:30:52.924588",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445753
+69246162,119909343,"2016-12-15 19:31:08.745643",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445753
+44981073,119909501,"2016-12-15 19:31:27.145989",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",532234
+69246320,119909609,"2016-12-15 19:31:53.396585",4,1.0,"Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; NOKIA; Lumia 800)","","DK",530097
+69246334,119909634,"2016-12-15 19:31:58.025997",23158683,26875.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445809
+69246162,119909343,"2016-12-15 19:31:59.772537",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445753
+69246162,119909343,"2016-12-15 19:32:21.236723",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445753
+69246410,119909762,"2016-12-15 19:32:29.928021",4,1.0,"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G928F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.4 Chrome/38.0.2125.102 Mobile Safari/537.36","","DK",59
+68897105,119897486,"2016-12-15 19:33:10.072695",20962038,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",445657
+44981073,119909501,"2016-12-15 19:33:46.60654",11830882,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",532234
+24694715,119910206,"2016-12-15 19:34:20.475603",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+68803116,119909530,"2016-12-15 19:34:11.16777",16342662,"","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; 3F)","","DK",445797
+66612404,118398018,"2016-12-09 23:55:07.999764",12004347,"","Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53","","DK",59
+66780487,119910163,"2016-12-15 19:34:45.984335",3628,"","Mozilla/5.0 (Linux; U; Android 4.1.2; da-dk; HTC_Desire_500 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","","DK",59
+68633302,119910343,"2016-12-15 19:35:00.924347",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445751
+69246319,119909607,"2016-12-15 19:36:26.076339",23160654,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","t","DK",59
+33784809,119910783,"2016-12-15 19:36:53.43034",23160698,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",59
+69236495,119891490,"2016-12-15 19:37:30.84675",17007665,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MANM; rv:11.0) like Gecko","","DK",532257
+69247098,119910994,"2016-12-15 19:37:44.519966",4,1.0,"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",726349
+69073633,119904778,"2016-12-15 19:38:18.429465",21953285,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445656
+69247134,119911057,"2016-12-15 19:37:57.755215",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",717528
+66437498,119911247,"2016-12-15 19:38:44.255944",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+68946957,119906520,"2016-12-15 19:38:42.557884",11830882,1.0,"Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T800 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Safari/537.36","","DK",531628
+69073633,119904778,"2016-12-15 19:39:00.18182",21953285,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445656
+67904133,120008432,"2016-12-16 09:18:54.965961",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445747
+35241908,119909225,"2016-12-15 19:38:56.830032",16087895,"","Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A452 Safari/601.1","","DK",59
+55341037,119903090,"2016-12-15 19:39:12.266559",119110,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13B143 Safari/601.1.46","","DK",445761
+69236495,119891490,"2016-12-15 19:39:26.786736",17007665,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MANM; rv:11.0) like Gecko","","DK",532257
+69098923,119911531,"2016-12-15 19:39:45.27557",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445725
+67652134,119911483,"2016-12-15 19:39:34.122628",23071354,40925.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",532242
+33784809,119910783,"2016-12-15 19:39:42.283861",23160698,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",59
+33784809,119910783,"2016-12-15 19:39:54.497519",23160886,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",59
+69105251,119912276,"2016-12-15 19:42:41.738699",4,38.0,"Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",59
+68897105,119897486,"2016-12-15 19:47:14.855394",4,38.0,"Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",445657
+69247225,119911226,"2016-12-15 19:46:41.920142",16087895,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",530263
+55341037,119903090,"2016-12-15 19:43:33.223537",119110,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13B143 Safari/601.1.46","","DK",445761
+66370170,119912525,"2016-12-15 19:43:43.844142",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445725
+69247997,119912635,"2016-12-15 19:44:08.439506",4,38.0,"Mozilla/5.0 (Linux; Android 4.3; C1905 Build/15.4.A.1.9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36","","DK",705419
+33784809,119910783,"2016-12-15 19:44:19.312253",23160886,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",59
+69248139,119912889,"2016-12-15 19:45:08.945638",23161227,40925.0,"Mozilla/5.0 (Linux; Android 5.1.1; SM-G928F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445664
+60809814,119912884,"2016-12-15 19:45:08.038946",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+27528673,119913006,"2016-12-15 19:45:36.956366",23161263,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445691
+27365741,119913023,"2016-12-15 19:45:40.626331",4,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445673
+47587269,119913269,"2016-12-15 19:46:39.365886",4,38.0,"Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",59
+69246904,119910639,"2016-12-15 19:47:36.655672",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",663505
+69246904,119910639,"2016-12-15 19:48:42.949622",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",663505
+56288347,119918541,"2016-12-15 20:36:29.305864",114,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445678
+63796047,119913945,"2016-12-15 19:49:16.497487",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445791
+63796047,119913945,"2016-12-15 19:49:17.749581",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445791
+69248837,119914060,"2016-12-15 19:49:39.659834",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4","","DK",705419
+69249447,119915177,"2016-12-15 19:53:57.0546",4,1.0,"Mozilla/5.0 (Windows NT 6.0; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445791
+69248946,119914242,"2016-12-15 19:50:30.598635",17150838,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",705419
+69073633,119904778,"2016-12-15 19:50:48.043122",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445656
+69112936,119914450,"2016-12-15 19:51:12.594006",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445683
+69248908,119914173,"2016-12-15 19:50:54.828679",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69239853,119897734,"2016-12-15 19:52:47.205886",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445659
+69236495,119891490,"2016-12-15 19:53:12.364621",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MANM; rv:11.0) like Gecko","","DK",532257
+69248925,119914199,"2016-12-15 19:53:42.033176",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445689
+69248725,119913877,"2016-12-15 19:56:38.614526",184621,"","Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",530734
+69236495,119891490,"2016-12-15 19:53:31.740134",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MANM; rv:11.0) like Gecko","","DK",532257
+69236495,119891490,"2016-12-15 19:53:58.554672",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MANM; rv:11.0) like Gecko","","DK",532257
+69248946,119914242,"2016-12-15 19:54:07.235523",17150838,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",705419
+66183500,118237021,"2016-12-10 02:46:08.608183",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68708847,119914672,"2016-12-15 19:54:34.746394",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/6.2.8 Safari/537.85.17","","DK",445728
+60673833,119915610,"2016-12-15 19:55:42.025119",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9","","DK",660774
+69241827,119914816,"2016-12-15 19:55:46.179124",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445776
+66638565,119915536,"2016-12-15 19:55:23.50367",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9","","DK",445666
+30103220,63738000,"2016-01-05 12:38:13.733823",4626,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",445632
+66183500,118237021,"2016-12-10 02:34:54.280755",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+60673833,119915610,"2016-12-15 19:55:44.364903",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9","","DK",660774
+68519957,118575105,"2016-12-10 16:20:21.608742",4,38.0,"Mozilla/5.0 (Linux; U; Android 4.2.2; da-dk; GT-P5110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","","DK",530263
+54266823,119915639,"2016-12-15 19:55:49.161939",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69248725,119913877,"2016-12-15 19:56:01.316823",184621,"","Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",530734
+60673833,119915610,"2016-12-15 19:56:01.973043",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9","","DK",660774
+68832637,119146804,"2016-12-13 00:10:49.824856",17666862,"","Mozilla/5.0 (Linux; U; Android 4.3; da-dk; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","","DK",532256
+27365741,119913023,"2016-12-15 19:57:18.784733",23163413,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445673
+58800854,119916171,"2016-12-15 19:57:44.777408",17168746,30004.0,"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4","","DK",445635
+69250130,119916451,"2016-12-15 19:58:52.650292",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445725
+69250150,119916485,"2016-12-15 19:59:01.602942",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",705419
+65055190,119916529,"2016-12-15 19:59:11.606146",733617,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",705419
+62046017,119916568,"2016-12-15 19:59:19.1557",346263,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",705419
+27365741,119913023,"2016-12-15 19:59:47.128709",23163413,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445673
+66183500,118237021,"2016-12-10 02:40:01.397316",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+28790115,119912541,"2016-12-15 20:00:27.231832",23165123,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445765
+27320664,119916946,"2016-12-15 20:00:51.385432",23165352,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445672
+69250150,119916485,"2016-12-15 20:00:52.524592",21953285,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",705419
+68506535,118550590,"2016-12-10 14:47:30.058196",21953285,38.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",59
+58372508,119917116,"2016-12-15 20:01:29.793395",4,38.0,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445672
+69250141,119916472,"2016-12-15 20:02:20.090852",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445701
+69250141,119916472,"2016-12-15 20:02:22.537488",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445701
+69250750,119917598,"2016-12-15 20:03:19.58576",4,"","Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N910F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445687
+69249646,119915537,"2016-12-15 20:03:25.476808",21182415,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",705419
+67753056,119917648,"2016-12-15 20:03:49.376872",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445672
+69250801,119917685,"2016-12-15 20:03:55.815721",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 02:42:11.160797",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69250903,119917896,"2016-12-15 20:04:32.62252",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445798
+69251371,119918721,"2016-12-15 20:18:06.138262",16096216,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445722
+57410669,119919966,"2016-12-15 20:18:28.616183",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445885
+52975632,119921180,"2016-12-15 20:18:24.8011",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",664886
+56288347,119918541,"2016-12-15 20:18:25.061268",114,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445678
+54977311,119921445,"2016-12-15 20:19:31.491037",4,38.0,"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","DK",709655
+69251371,119918721,"2016-12-15 20:20:13.480307",16096216,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445722
+69252913,119921452,"2016-12-15 20:19:33.344672",4,1.0,"Mozilla/5.0 (Windows NT 6.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+32337043,119920620,"2016-12-15 20:19:36.837582",16096216,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+69252959,119921530,"2016-12-15 20:19:53.00758",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445674
+69252455,119920610,"2016-12-15 20:19:58.563399",22868090,"","Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69253000,119921593,"2016-12-15 20:20:08.460528",23172216,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",500142
+69251371,119918721,"2016-12-15 20:21:04.045646",16096216,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445722
+68580953,119921646,"2016-12-15 20:20:21.63774",23172224,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445740
+69253029,119921642,"2016-12-15 20:20:39.18426",23172216,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",500142
+68393466,119923403,"2016-12-15 20:32:40.749885",17540962,"","Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",445702
+69209439,119916929,"2016-12-15 20:20:22.046828",21200363,30233.0,"Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T805 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Safari/537.36","","DK",445825
+69252913,119921452,"2016-12-15 20:20:43.368482",4,1.0,"Mozilla/5.0 (Windows NT 6.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69252455,119920610,"2016-12-15 20:21:10.444492",22868090,"","Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69252455,119920610,"2016-12-15 20:21:23.940803",23171918,40925.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+33009427,119921902,"2016-12-15 20:21:26.022285",18792744,13289.0,"Mozilla/5.0 (Linux; U; Android 4.0.4; da-dk; HUAWEI U9510E Build/HuaweiU9510E) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30","","DK",445663
+69253202,119921944,"2016-12-15 20:21:38.390456",17653073,13289.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","NO",162
+69253182,119921916,"2016-12-15 20:21:30.300998",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",705419
+56288347,119918541,"2016-12-15 20:22:19.827467",114,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445678
+60939885,118550554,"2016-12-10 14:47:22.804861",22683507,30008.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",705419
+57410669,119919966,"2016-12-15 20:23:55.476968",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445885
+68638491,119922489,"2016-12-15 20:23:57.868497",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",705419
+69252376,119920475,"2016-12-15 20:24:31.094393",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445784
+57983510,119921959,"2016-12-15 20:26:45.526481",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445666
+69253687,119922805,"2016-12-15 20:25:28.505749",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445666
+33241947,119922796,"2016-12-15 20:25:24.703022",22229436,2593.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko","","DK",445826
+63237777,119922849,"2016-12-15 20:25:42.317103",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445667
+69253719,119922858,"2016-12-15 20:25:43.379725",23172572,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69253687,119922805,"2016-12-15 20:25:43.188152",16087282,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445666
+69253768,119922940,"2016-12-15 20:26:08.092905",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69253881,119923127,"2016-12-15 20:26:57.982997",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10","","DK",59
+69252209,119920178,"2016-12-15 20:26:53.323471",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445784
+69253182,119921916,"2016-12-15 20:27:06.92831",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",705419
+69253910,119923184,"2016-12-15 20:27:10.633691",76740,1.0,"Mozilla/5.0 (Linux; Android 5.0.2; PLK-L01 Build/HONORPLK-L01) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.76 Mobile Safari/537.36","","DK",705419
+68923253,119923340,"2016-12-15 20:27:55.722909",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5","","DK",445675
+69252481,119920653,"2016-12-15 20:27:48.968659",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445760
+69253182,119921916,"2016-12-15 20:29:08.63164",114,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",705419
+60844929,119923685,"2016-12-15 20:29:29.438796",114,"","Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4","","DK",445765
+58345050,119923760,"2016-12-15 20:29:44.278979",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",707003
+69250750,119917598,"2016-12-15 20:29:53.441615",4,"","Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N910F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445687
+63045792,119923077,"2016-12-15 20:30:56.61538",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",533449
+69250750,119917598,"2016-12-15 20:30:17.301723",16087282,"","Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N910F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445687
+66473777,119923961,"2016-12-15 20:30:25.024603",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",705419
+69250750,119917598,"2016-12-15 20:30:42.714157",4,"","Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N910F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445687
+62666248,119924108,"2016-12-15 20:30:59.848341",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445791
+57983510,119921959,"2016-12-15 20:31:27.426703",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445666
+69248967,119914284,"2016-12-15 20:31:37.452517",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445632
+60844929,119923685,"2016-12-15 20:31:54.411033",114,"","Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4","","DK",445765
+63045792,119923077,"2016-12-15 20:31:58.493745",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",533449
+69254124,119923582,"2016-12-15 20:32:08.681633",17352038,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445638
+69254654,119924520,"2016-12-15 20:32:32.235774",4,38.0,"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",530089
+69254124,119923582,"2016-12-15 20:32:33.633905",22868090,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445638
+62823420,119924517,"2016-12-15 20:32:31.233132",114,38.0,"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4","","DK",445739
+67941559,119925385,"2016-12-15 21:39:23.370859",4,"","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+63045792,119923077,"2016-12-15 20:32:51.281675",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",533449
+69255061,119925269,"2016-12-15 20:35:20.655726",23175415,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",531603
+69254754,119924709,"2016-12-15 20:33:13.091951",4,51799.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 [FBAN/FBIOS;FBAV/45.0.0.45.96;FBBV/18289579;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.2;FBSS/2; FBCR/3DK;FBID/phone;FBLC/da_DK;FBOP/5]","","DK",445738
+57983510,119921959,"2016-12-15 20:33:23.311741",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445666
+27903894,119922966,"2016-12-15 20:34:16.712904",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A452 Safari/601.1","","DK",533014
+66183500,118237021,"2016-12-10 02:50:27.375708",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+60602038,119921126,"2016-12-15 20:35:01.543028",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445709
+69255030,119925220,"2016-12-15 20:35:10.965009",4,42.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445651
+68792374,119925286,"2016-12-15 20:35:24.462034",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13B143 Safari/601.1.46","","DK",445791
+69067571,119925301,"2016-12-15 20:35:28.201641",23025625,26875.0,"Mozilla/5.0 (Linux; Android 4.4.4; GT-I9305 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445725
+69255112,119925376,"2016-12-15 20:35:45.424114",19764709,13289.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+61468865,119925415,"2016-12-15 20:35:56.853364",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+62823420,119924517,"2016-12-15 20:36:09.717283",114,38.0,"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4","","DK",445739
+69252414,119920537,"2016-12-15 20:36:50.025136",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",500141
+69255329,119925769,"2016-12-15 20:37:21.838639",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",664887
+69252947,119921511,"2016-12-15 20:37:48.37098",22638723,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445856
+45156422,119926036,"2016-12-15 20:38:19.333888",11830882,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445705
+66533044,119925182,"2016-12-15 20:38:32.713125",20737099,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",705419
+67941559,119925385,"2016-12-15 20:38:40.336419",21645043,30006.0,"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+66183500,118237021,"2016-12-10 02:55:33.468223",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69256172,119927311,"2016-12-15 20:43:27.287531",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445791
+69255643,119926326,"2016-12-15 20:39:27.713214",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445665
+62823420,119924517,"2016-12-15 20:40:35.468769",114,38.0,"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4","","DK",445739
+64865012,119922503,"2016-12-15 20:41:20.459884",16100848,"","Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+68582446,119923395,"2016-12-15 20:41:27.76838",4,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445778
+66013421,119926912,"2016-12-15 20:41:42.310566",22752921,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",532235
+31088271,119926950,"2016-12-15 20:41:52.787476",23061373,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445704
+69255886,119926811,"2016-12-15 20:41:59.133823",23178993,26878.0,"Mozilla/5.0 (Linux; Android 5.0.2; SM-A300FU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",59
+69248967,119914284,"2016-12-15 20:42:00.403399",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445632
+64865012,119922503,"2016-12-15 20:42:32.973333",16100848,"","Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+69255495,119926073,"2016-12-15 20:42:59.677796",22837979,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66013421,119926912,"2016-12-15 20:43:05.454347",22752921,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",532235
+69258745,119931788,"2016-12-15 21:02:25.810145",17666862,"","Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257","","DK",445819
+69257431,119929523,"2016-12-15 20:53:54.29815",19996810,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko","","DK",530252
+53403485,119929960,"2016-12-15 20:54:22.26038",4,1338.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445819
+29744653,119929386,"2016-12-15 20:55:09.457461",16087282,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445654
+69257383,119929438,"2016-12-15 20:55:40.56462",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445651
+69257849,119930222,"2016-12-15 20:55:29.895773",23063912,40925.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445860
+59483063,119928503,"2016-12-15 20:55:44.43846",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445743
+69257818,119930177,"2016-12-15 20:56:10.220121",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445637
+69257849,119930222,"2016-12-15 20:56:18.785142",23063912,40925.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445860
+69272499,119955845,"2016-12-15 22:50:50.842935",20085724,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko","","DK",59
+67218084,119930455,"2016-12-15 20:56:37.502418",23183007,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/13B143 Safari/600.1.4","","DK",445843
+68819173,119931040,"2016-12-15 20:59:08.261912",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+65249224,119930936,"2016-12-15 20:58:43.321893",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/537.86.2","","DK",445654
+56288347,119918541,"2016-12-15 20:58:54.207677",114,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445678
+49216552,119930957,"2016-12-15 20:58:47.100184",23183168,26883.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",59
+68393466,119923403,"2016-12-15 20:59:56.324604",17540962,"","Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",445702
+69257818,119930177,"2016-12-15 21:00:18.830816",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445637
+46469757,119930738,"2016-12-15 21:01:27.93062",4,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAARJS; rv:11.0) like Gecko","","DK",59
+59483063,119928503,"2016-12-15 21:00:31.201471",20131597,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445743
+66183500,118237021,"2016-12-10 02:47:50.666869",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69258699,119931693,"2016-12-15 21:01:44.602334",23003677,2593.0,"Mozilla/5.0 (Linux; Android 5.1.1; SM-G928F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/57.0.0.18.136;]","","DK",445721
+69258699,119931693,"2016-12-15 21:02:40.145948",23003677,2593.0,"Mozilla/5.0 (Linux; Android 5.1.1; SM-G928F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/57.0.0.18.136;]","","DK",445721
+50236467,119931964,"2016-12-15 21:02:52.086796",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445677
+50236467,119931964,"2016-12-15 21:02:55.14548",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445677
+69256932,119928627,"2016-12-15 21:03:12.247197",23183448,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69258699,119931693,"2016-12-15 21:04:04.615516",23003677,2593.0,"Mozilla/5.0 (Linux; Android 5.1.1; SM-G928F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/57.0.0.18.136;]","","DK",445721
+69258994,119932199,"2016-12-15 21:03:56.51314",23183503,26875.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445802
+69131176,119932484,"2016-12-15 21:05:12.150642",23183574,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445664
+69258994,119932199,"2016-12-15 21:05:01.699806",23183503,26875.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445802
+69257818,119930177,"2016-12-15 21:05:56.651082",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445637
+69258994,119932199,"2016-12-15 21:07:21.719939",23183503,26875.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445802
+68819173,119931040,"2016-12-15 21:06:15.887029",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+68582864,119932895,"2016-12-15 21:06:51.977512",4,30205.0,"Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.76 Mobile Safari/537.36","","DK",59
+68819173,119931040,"2016-12-15 21:07:24.391941",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+30019491,119932582,"2016-12-15 21:07:55.175044",21409307,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445751
+68811574,119933417,"2016-12-15 21:09:07.430739",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445791
+57089599,118517193,"2016-12-10 15:17:09.701323",4,30473.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",59
+67941559,119925385,"2016-12-15 21:09:40.49872",4,"","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69259893,119933730,"2016-12-15 21:10:26.369172",4,11259.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2","","DK",445637
+30019491,119932582,"2016-12-15 21:10:30.932811",21409307,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445751
+65082102,119933776,"2016-12-15 21:10:37.320416",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445746
+69259991,119933886,"2016-12-15 21:11:03.099263",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",530741
+69259991,119933886,"2016-12-15 21:11:13.560496",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",530741
+63693423,119932911,"2016-12-15 21:12:45.115226",23187767,38751.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69260124,119934127,"2016-12-15 21:12:08.493551",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","NO",453598
+47264250,119934255,"2016-12-15 21:12:40.241921",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445651
+30019491,119932582,"2016-12-15 21:13:15.743292",16631985,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445751
+63693423,119932911,"2016-12-15 21:13:06.508995",23187767,38751.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69260278,119934403,"2016-12-15 21:13:14.312435",4,30181.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445675
+68180975,119934560,"2016-12-15 21:13:48.310954",23150104,26876.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:42.0) Gecko/20100101 Firefox/42.0","","BH",26
+69259943,119933806,"2016-12-15 21:13:42.151772",21953285,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",524359
+69260278,119934403,"2016-12-15 21:13:53.523348",16085961,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445675
+68499935,119934657,"2016-12-15 21:14:19.410177",17666862,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445635
+69258472,119931309,"2016-12-15 21:15:12.445356",21043428,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445682
+69260530,119934880,"2016-12-15 21:15:17.864576",18413931,30006.0,"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","DK",445684
+44986278,119934179,"2016-12-15 21:15:27.45791",18043330,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445632
+52074225,119935074,"2016-12-15 21:16:06.539035",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445819
+30019491,119932582,"2016-12-15 21:16:12.281022",21409307,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445751
+44986278,119934179,"2016-12-15 21:16:34.719503",18043330,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445632
+69260606,119935025,"2016-12-15 21:17:04.578545",16087282,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445662
+69260813,119935389,"2016-12-15 21:17:22.29921",4,38.0,"Mozilla/5.0 (Android; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0","","DK",59
+63737279,119934785,"2016-12-15 21:17:25.873773",16101925,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",524355
+45357973,119929002,"2016-12-15 21:17:52.707182",11830882,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445701
+63693423,119932911,"2016-12-15 21:18:01.219235",23187767,38751.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:00:14.032256",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69259991,119933886,"2016-12-15 21:18:22.118627",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",530741
+69259991,119933886,"2016-12-15 21:18:30.587103",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",530741
+69261084,119935854,"2016-12-15 21:19:18.490491",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",531624
+48892301,119936367,"2016-12-15 21:28:45.346863",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445702
+65249224,119930936,"2016-12-15 21:29:04.613455",114,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/537.86.2","","DK",445654
+69264570,119941950,"2016-12-15 21:43:52.806181",23195578,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445672
+69263867,119940719,"2016-12-15 21:38:56.38191",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69261886,119937193,"2016-12-15 21:32:53.686416",11830882,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445708
+64865012,119922503,"2016-12-15 21:31:30.377181",16100848,"","Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+68667340,119938955,"2016-12-15 21:31:48.686551",20840012,30003.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",445716
+64865012,119922503,"2016-12-15 21:32:34.203467",16100848,"","Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+64865012,119922503,"2016-12-15 21:33:19.081746",16100848,"","Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445784
+69263418,119939918,"2016-12-15 21:39:43.05379",21953285,"","Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4","","DK",445662
+69263206,119939526,"2016-12-15 21:34:14.710356",4,1.0,"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",445637
+49216552,119930957,"2016-12-15 21:34:21.458478",4,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",59
+69261671,119936830,"2016-12-15 21:34:40.868517",21300638,"","Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4","","DK",530252
+56377044,119939621,"2016-12-15 21:34:41.195904",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",727473
+69262929,119939047,"2016-12-15 21:35:29.229503",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445767
+33171244,119940019,"2016-12-15 21:36:23.08216",22037733,30233.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/7.1.7 Safari/537.85.16","","DK",715613
+69263503,119940082,"2016-12-15 21:36:43.710587",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",530252
+51601043,119940333,"2016-12-15 21:37:33.596778",23194035,26875.0,"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","DK",445737
+69263658,119940370,"2016-12-15 21:37:40.751812",22871039,26878.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",705419
+69263716,119940469,"2016-12-15 21:38:00.431695",23194077,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","DK",59
+69263770,119940559,"2016-12-15 21:38:19.663349",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+49216552,119930957,"2016-12-15 21:38:30.634355",4,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",59
+69263716,119940469,"2016-12-15 21:38:54.843541",23194077,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","DK",59
+54428774,119940774,"2016-12-15 21:39:45.427081",21953285,"","Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4","","DK",282050
+69263930,119940821,"2016-12-15 21:39:17.580923",23194177,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445689
+67941559,119925385,"2016-12-15 21:39:29.101425",4,"","Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69263983,119940919,"2016-12-15 21:39:43.235541",23194213,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445856
+69263701,119940438,"2016-12-15 21:40:04.220397",16340978,"","Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",281175
+67044565,119941043,"2016-12-15 21:40:10.401948",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+65211788,119938872,"2016-12-15 21:40:35.011615",21811242,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445665
+69263873,119940729,"2016-12-15 21:40:40.783706",114,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4","","DK",445764
+69264209,119941337,"2016-12-15 21:41:18.773339",16462907,13289.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69264263,119941420,"2016-12-15 21:41:37.404912",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13B143 Safari/601.1.46","","DK",445809
+44952569,119941403,"2016-12-15 21:41:33.161487",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445774
+69264266,119941423,"2016-12-15 21:41:37.943755",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445658
+26745475,119940943,"2016-12-15 21:41:48.577953",23194494,26876.0,"Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445717
+69264410,119941680,"2016-12-15 21:42:45.061937",23194970,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445640
+69263873,119940729,"2016-12-15 21:42:44.190895",114,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4","","DK",445764
+63693423,119932911,"2016-12-15 21:43:07.316247",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69264410,119941680,"2016-12-15 21:43:04.651248",16087282,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445640
+68520423,118575912,"2016-12-10 16:20:39.558277",22725836,26878.0,"Mozilla/5.0 (Linux; Android 4.4.4; HTC_Desire_620 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36","","DK",59
+69264020,119940990,"2016-12-15 21:43:10.592568",16087895,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+53130207,119932968,"2016-12-15 21:43:14.896039",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+65277937,119941949,"2016-12-15 21:44:20.731051",16087282,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445672
+51765239,119942069,"2016-12-15 21:44:28.344558",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445657
+69265888,119944232,"2016-12-15 21:54:56.40035",17666862,"","Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53","","DK",445664
+69264269,119941429,"2016-12-15 21:44:48.720911",16087895,"","Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53","","DK",59
+63693423,119932911,"2016-12-15 21:45:10.798381",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69264719,119942228,"2016-12-15 21:45:13.618079",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69264726,119942238,"2016-12-15 21:45:17.594244",23196333,40925.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445856
+69264143,119941222,"2016-12-15 21:45:55.261468",21238058,30003.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445652
+69264831,119942416,"2016-12-15 21:46:03.487712",4,1.0,"Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",705419
+69264820,119942397,"2016-12-15 21:46:04.26746",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445739
+69264890,119942520,"2016-12-15 21:46:27.955702",20418232,13289.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",705419
+69264410,119941680,"2016-12-15 21:46:32.196461",23194970,26875.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445640
+69258472,119931309,"2016-12-15 21:46:35.544374",21847474,30003.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445682
+69264973,119942650,"2016-12-15 21:46:52.978012",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445777
+44986278,119934179,"2016-12-15 21:47:38.548866",18043330,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445632
+69265113,119942896,"2016-12-15 21:47:49.817361",4,1.0,"Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G850F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445654
+69264831,119942416,"2016-12-15 21:48:20.723499",4,38.0,"Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",705419
+58680844,119943014,"2016-12-15 21:48:18.581634",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",726349
+68402076,119941352,"2016-12-15 21:48:25.844949",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",664959
+63693423,119932911,"2016-12-15 21:48:30.895944",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+68725539,119943122,"2016-12-15 21:48:40.615265",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",705419
+69265366,119943319,"2016-12-15 21:49:39.299464",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",59
+34967069,119943183,"2016-12-15 21:50:26.07043",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445701
+60452294,119943531,"2016-12-15 21:50:26.130521",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",705419
+69265437,119943451,"2016-12-15 21:50:08.109777",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",531624
+69265499,119943556,"2016-12-15 21:50:30.339997",17666862,51799.0,"Mozilla/5.0 (Linux; U; Android 4.4.2; da-dk; GT-P5220 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","","DK",445673
+57807345,119944763,"2016-12-15 21:55:04.958229",16087282,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",531761
+69265576,119943689,"2016-12-15 21:50:58.968748",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2","","DK",59
+69264831,119942416,"2016-12-15 21:51:07.812461",16483405,"","Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",705419
+62572005,119928428,"2016-12-15 21:51:29.832264",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445825
+62572005,119928428,"2016-12-15 21:51:40.170149",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445825
+69265722,119943943,"2016-12-15 21:52:01.309104",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445637
+69265499,119943556,"2016-12-15 21:52:00.101283",17666862,51799.0,"Mozilla/5.0 (Linux; U; Android 4.4.2; da-dk; GT-P5220 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","","DK",445673
+69265737,119943965,"2016-12-15 21:52:06.658692",23200140,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445699
+69264831,119942416,"2016-12-15 21:52:21.834157",16100848,"","Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",705419
+69265778,119944032,"2016-12-15 21:52:23.468913",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4","","DK",445677
+53035524,119944026,"2016-12-15 21:52:21.453825",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445807
+69265794,119944056,"2016-12-15 21:52:31.184024",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+69265499,119943556,"2016-12-15 21:52:32.524227",114,51799.0,"Mozilla/5.0 (Linux; U; Android 4.4.2; da-dk; GT-P5220 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30","","DK",445673
+33603392,119944085,"2016-12-15 21:52:37.557307",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445837
+69265817,119944099,"2016-12-15 21:52:40.071961",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",705419
+65332934,119944101,"2016-12-15 21:52:40.324123",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445750
+69265826,119944111,"2016-12-15 21:52:42.544963",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69264831,119942416,"2016-12-15 21:52:45.883555",16100848,"","Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",705419
+69265954,119944350,"2016-12-15 21:53:33.457259",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445830
+66183500,118237021,"2016-12-10 02:58:04.483018",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69265888,119944232,"2016-12-15 21:53:41.684163",17666862,"","Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53","","DK",445664
+69263418,119939918,"2016-12-15 21:53:43.303585",21953285,"","Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4","","DK",445662
+69265954,119944350,"2016-12-15 21:53:47.975705",16087282,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445830
+69264831,119942416,"2016-12-15 21:54:06.019608",16100848,"","Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4","","DK",705419
+69263774,119940566,"2016-12-15 21:54:18.046816",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445718
+68877955,119946533,"2016-12-15 22:04:15.389827",11830882,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445704
+69266307,119944982,"2016-12-15 22:04:17.107833",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",500439
+62572005,119928428,"2016-12-15 22:04:24.022983",23204788,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","t","DK",445825
+64596402,119947136,"2016-12-15 22:07:44.407533",17666862,"","Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4","","DK",530734
+68278859,119947349,"2016-12-15 22:05:40.746227",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",487263
+66510176,119946767,"2016-12-15 22:04:41.914399",18317761,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+64596402,119947136,"2016-12-15 22:04:50.127178",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4","","DK",530734
+69267580,119947171,"2016-12-15 22:04:59.000017",11830882,38.0,"Mozilla/5.0 (Linux; Android 5.1.1; D5803 Build/23.4.A.1.264) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",59
+69161898,119947008,"2016-12-15 22:05:01.693975",11830882,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13B143 Safari/600.1.4","","DK",532225
+69267676,119947352,"2016-12-15 22:05:42.473233",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",705419
+69265489,119943543,"2016-12-15 22:05:51.579572",4,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13C75 Safari/600.1.4","","DK",445724
+69267695,119947388,"2016-12-15 22:05:52.57565",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445659
+64596402,119947136,"2016-12-15 22:06:04.546251",4,51799.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4","","DK",530734
+69267712,119947424,"2016-12-15 22:06:02.934934",20053874,1.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+69267695,119947388,"2016-12-15 22:06:41.288376",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445659
+69161898,119947008,"2016-12-15 22:07:01.615719",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/11.0.65374 Mobile/13B143 Safari/600.1.4","","DK",532225
+65772284,119947729,"2016-12-15 22:07:26.413361",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",726349
+34423842,119947778,"2016-12-15 22:07:35.382686",16636088,30006.0,"Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4","","DK",59
+69267676,119947352,"2016-12-15 22:08:14.911035",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",705419
+69266307,119944982,"2016-12-15 22:08:33.104217",16087282,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",500439
+68402076,119941352,"2016-12-15 22:08:35.053186",12004347,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",664959
+59632844,119948194,"2016-12-15 22:09:26.424551",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",717528
+35524878,118398874,"2016-12-09 23:57:41.962459",22429175,"","Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safari/8536.25","","DK",59
+59632844,119948194,"2016-12-15 22:10:17.634356",11830882,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",717528
+69263658,119940370,"2016-12-15 22:10:37.089333",23205167,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","t","DK",705419
+67529902,119944775,"2016-12-15 22:11:57.701974",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",726350
+67770219,119946047,"2016-12-15 22:12:25.279398",22931245,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+69268801,119949356,"2016-12-15 22:14:40.00841",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69266138,119944668,"2016-12-15 22:13:47.178308",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+26974427,119949222,"2016-12-15 22:14:01.707942",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","NO",451816
+69268182,119948242,"2016-12-15 22:14:13.48426",16428419,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",530734
+69268831,119949410,"2016-12-15 22:14:56.119537",16087282,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",705419
+30320977,119948882,"2016-12-15 22:14:28.431932",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445725
+69263658,119940370,"2016-12-15 22:14:36.752334",4,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",705419
+69268116,119948113,"2016-12-15 22:14:48.594571",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",471235
+66450305,119949581,"2016-12-15 22:15:48.181637",21436323,26878.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",705419
+68138081,119928968,"2016-12-15 22:18:51.194682",23018186,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445895
+66863897,119950218,"2016-12-15 22:19:02.255321",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",59
+66145525,119950201,"2016-12-15 22:18:55.465863",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445813
+69258681,119950297,"2016-12-15 22:19:27.172401",23206677,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",705419
+69268330,119948526,"2016-12-15 22:19:50.397153",16428419,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445637
+69269341,119950308,"2016-12-15 22:20:27.195548",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","NO",705735
+69268804,119949360,"2016-12-15 22:20:48.784705",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",533435
+66183500,118237021,"2016-12-10 03:06:07.422468",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68698778,118908721,"2016-12-11 20:44:26.721328",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",524181
+61169418,119944200,"2016-12-15 22:21:34.373961",23207801,26875.0,"Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",445874
+68534135,119950876,"2016-12-15 22:22:14.628876",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","DK",59
+69269761,119951052,"2016-12-15 22:23:10.051918",23208652,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445786
+54963628,119951466,"2016-12-15 22:26:02.138227",17666862,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",445725
+69270043,119951571,"2016-12-15 22:25:43.80844",23210006,26875.0,"Mozilla/5.0 (Linux; Android 5.0.2; SM-T530 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",445879
+69269444,119950494,"2016-12-15 22:26:07.51616",18076019,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",524354
+69270043,119951571,"2016-12-15 22:26:23.615415",23210006,26875.0,"Mozilla/5.0 (Linux; Android 5.0.2; SM-T530 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",445879
+69270043,119951571,"2016-12-15 22:26:39.72072",23210006,26875.0,"Mozilla/5.0 (Linux; Android 5.0.2; SM-T530 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",445879
+69231851,119951817,"2016-12-15 22:26:55.617191",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",524177
+63942597,119956543,"2016-12-15 22:53:23.835521",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445725
+58220450,118406596,"2016-12-10 03:13:43.559528",4,38.0,"Mozilla/5.0 (Linux; U; Android 5.0; da-dk; LG-D855 Build/LRX21R.A1445306351) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Mobile Safari/537.36","","DK",59
+69270043,119951571,"2016-12-15 22:27:38.381844",23210006,26875.0,"Mozilla/5.0 (Linux; Android 5.0.2; SM-T530 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",445879
+55508309,119951764,"2016-12-15 22:27:53.479018",18932727,30003.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",524354
+69268330,119948526,"2016-12-15 22:27:59.240024",16428419,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445637
+69270442,119952261,"2016-12-15 22:28:58.176501",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445712
+69264903,119942538,"2016-12-15 22:28:10.281956",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69270043,119951571,"2016-12-15 22:28:30.929854",23210006,26875.0,"Mozilla/5.0 (Linux; Android 5.0.2; SM-T530 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",445879
+69270384,119952177,"2016-12-15 22:28:35.922575",4,1.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445708
+55508309,119951764,"2016-12-15 22:29:29.42747",18932727,30003.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",524354
+69270498,119952349,"2016-12-15 22:29:26.900494",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445719
+69270498,119952349,"2016-12-15 22:29:30.557023",17666862,"","Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445719
+69270507,119952364,"2016-12-15 22:29:31.549437",4,42.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",705419
+65942434,119951630,"2016-12-15 22:30:39.773682",16411696,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445862
+69270043,119951571,"2016-12-15 22:30:45.353255",23210006,26875.0,"Mozilla/5.0 (Linux; Android 5.0.2; SM-T530 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36","","DK",445879
+66183500,118237021,"2016-12-10 03:03:46.962514",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69270442,119952261,"2016-12-15 22:32:35.151084",21953285,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445712
+54255358,119954382,"2016-12-15 22:40:27.203198",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko","","DK",445718
+69270416,119952222,"2016-12-15 22:40:28.33309",23215444,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","t","DK",445663
+69271689,119954399,"2016-12-15 22:40:34.661118",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko","","NO",455081
+69271689,119954399,"2016-12-15 22:40:57.664261",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko","","NO",455081
+54255358,119954382,"2016-12-15 22:41:21.637857",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko","","DK",445718
+69271781,119954560,"2016-12-15 22:41:58.856604",16087282,"","Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53","","DK",445665
+54255358,119954382,"2016-12-15 22:41:51.039267",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko","","DK",445718
+69271808,119954614,"2016-12-15 22:41:41.511135",23215513,40925.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4","","DK",445819
+58108192,119954278,"2016-12-15 22:42:35.385992",21300638,"","Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4","","DK",59
+69271881,119954767,"2016-12-15 22:42:37.608129",21307831,30004.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445689
+69271759,119954520,"2016-12-15 22:42:45.576113",20268039,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445678
+69272075,119955132,"2016-12-15 22:44:20.060977",23215646,40925.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",530089
+58108192,119954278,"2016-12-15 22:46:17.698426",21300638,"","Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4","","DK",59
+65804040,119955307,"2016-12-15 22:45:04.615405",23215701,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A452 Safari/601.1","","DK",530053
+69268505,119948844,"2016-12-15 22:46:24.674783",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445796
+69272197,119955336,"2016-12-15 22:47:05.291554",11830882,1.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+36282432,119955620,"2016-12-15 22:46:35.98144",11830882,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","ES",421380
+69271743,119954491,"2016-12-15 22:46:45.251839",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",707004
+69271411,119953959,"2016-12-15 22:47:28.235798",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445683
+69272519,119955869,"2016-12-15 22:47:57.659551",11659,38.0,"Mozilla/5.0 (Android 5.1.1; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0","","DK",445778
+69271121,119953449,"2016-12-15 22:48:22.95123",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A452 Safari/601.1","","DK",281160
+69272560,119955941,"2016-12-15 22:48:19.615894",23215880,40925.0,"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",500142
+69272417,119955699,"2016-12-15 22:48:55.02212",16395501,"","Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/41.0.2272.58 Mobile/11D201 Safari/9537.53","","DK",445665
+69271411,119953959,"2016-12-15 22:49:16.289195",4,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445683
+69204517,119956202,"2016-12-15 22:49:46.872363",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",59
+69272718,119956221,"2016-12-15 22:50:18.222079",16087282,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69272718,119956221,"2016-12-15 22:50:42.097895",16087282,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69272813,119956378,"2016-12-15 22:54:31.486377",1808,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",530046
+69273115,119956914,"2016-12-15 22:55:37.964827",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",445708
+69271394,119953925,"2016-12-15 22:56:12.60024",23217615,1243.0,"Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko","t","DK",445652
+69273115,119956914,"2016-12-15 22:56:53.017279",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",445708
+69273404,119957433,"2016-12-15 22:57:11.977541",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445856
+36117050,118575917,"2016-12-10 16:20:59.176005",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445760
+69273608,119957770,"2016-12-15 22:59:21.359489",18184441,1.0,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+67121678,119957806,"2016-12-15 22:59:38.409922",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445824
+69273404,119957433,"2016-12-15 23:00:28.100478",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445856
+64619359,119957476,"2016-12-15 23:01:09.907283",1808,"","Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445667
+30827654,119958164,"2016-12-15 23:02:25.655336",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",531760
+68371996,119958180,"2016-12-15 23:02:34.535738",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+69273404,119957433,"2016-12-15 23:02:50.212442",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445856
+69273900,119958263,"2016-12-15 23:03:08.325699",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69273404,119957433,"2016-12-15 23:03:44.208283",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445856
+56772096,119958402,"2016-12-15 23:03:51.163645",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",533363
+65199119,119958373,"2016-12-15 23:03:43.371171",17554469,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445683
+69274028,119958493,"2016-12-15 23:05:09.627969",76740,"","Mozilla/5.0 (Linux; Android 4.4.2; HTC One mini Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36","","DK",445688
+63088116,119958649,"2016-12-15 23:05:29.601974",4,38.0,"Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445705
+63088116,119958649,"2016-12-15 23:05:45.77101",4,"","Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",445705
+69274273,119958905,"2016-12-15 23:07:10.169787",23223704,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",726349
+61921947,119959315,"2016-12-15 23:10:12.677723",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445825
+64195652,119960018,"2016-12-15 23:15:19.584483",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445666
+68717838,119960329,"2016-12-15 23:17:41.871204",20235962,13289.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445747
+69274166,119958734,"2016-12-15 23:17:54.449486",22879763,30003.0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","DK",500439
+69275255,119960576,"2016-12-15 23:19:41.784763",4,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445708
+69273900,119958263,"2016-12-15 23:19:41.094722",3628,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69273900,119958263,"2016-12-15 23:20:41.865344",3628,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69274976,119960093,"2016-12-15 23:21:06.605261",20085724,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+68209092,119960840,"2016-12-15 23:21:45.231156",22037733,30233.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",524793
+69273900,119958263,"2016-12-15 23:21:47.19688",3628,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69275403,119960835,"2016-12-15 23:22:30.672136",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",734235
+68916801,119961197,"2016-12-15 23:24:56.235359",20323949,"","Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36","","DK",532248
+35442037,119960915,"2016-12-15 23:26:03.051732",11830882,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",705419
+69275688,119961329,"2016-12-15 23:26:17.513244",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","NO",162
+69275696,119961345,"2016-12-15 23:26:29.26962",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445652
+67770155,119961493,"2016-12-15 23:27:46.774719",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3","","DK",445644
+45650282,119961581,"2016-12-15 23:28:29.28052",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12","","DK",445725
+69273900,119958263,"2016-12-15 23:29:56.568471",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69276032,119961928,"2016-12-15 23:31:55.378043",4,"","Mozilla/5.0 (Android 5.1.1; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0","","DK",705419
+69276032,119961928,"2016-12-15 23:31:43.885387",16087282,38.0,"Mozilla/5.0 (Android 5.1.1; Mobile; rv:42.0) Gecko/42.0 Firefox/42.0","","DK",705419
+66772539,119960291,"2016-12-15 23:32:29.34637",22944041,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445737
+69276281,119962397,"2016-12-15 23:50:33.990587",16096216,"","Mozilla/5.0 (Linux; Android 4.2.2; Lenovo A7600-F Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.76 Safari/537.36","","DK",59
+69299951,120007775,"2016-12-16 09:16:40.52868",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+62644834,119963736,"2016-12-15 23:50:37.880145",23233637,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",532253
+66943916,119964118,"2016-12-15 23:54:58.015128",22005489,30006.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+46625323,119964328,"2016-12-15 23:57:48.207264",4,38.0,"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","DK",445824
+68956632,119964762,"2016-12-16 00:03:23.201175",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69277736,119964911,"2016-12-16 00:05:50.45924",4,587.0,"Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4","","DK",445665
+69277755,119964941,"2016-12-16 00:06:10.527607",23234925,26875.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",705419
+69277755,119964941,"2016-12-16 00:06:34.208452",29293,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",705419
+66183500,118237021,"2016-12-10 03:15:17.03221",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68668359,119964894,"2016-12-16 00:07:46.6433",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36","","DK",59
+69277910,119965179,"2016-12-16 00:09:17.882322",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","SE",706337
+69277802,119965025,"2016-12-16 00:09:34.679603",16087282,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","FO",55913
+68668359,119964894,"2016-12-16 00:09:38.387727",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-09 23:58:11.389897",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68668359,119964894,"2016-12-16 00:11:11.891847",17666862,"","Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36","","DK",59
+46604593,82288362,"2016-05-25 02:41:00.900325",4,38.0,"Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53","","SE",746907
+33882185,119965391,"2016-12-16 00:12:28.082579",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3","","DK",445666
+69277985,119965297,"2016-12-16 00:13:59.179537",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445757
+68277787,119965707,"2016-12-16 00:16:59.617051",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445819
+69278212,119965700,"2016-12-16 00:16:55.655653",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",705419
+66183500,118237021,"2016-12-10 03:08:13.565982",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69278706,119966536,"2016-12-16 00:30:46.784772",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69278706,119966536,"2016-12-16 00:33:20.477107",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69278356,119965933,"2016-12-16 00:33:01.130276",114,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",531610
+69278852,119966773,"2016-12-16 00:35:16.129126",17666862,"","Mozilla/5.0 (Windows NT 10.0; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69278466,119966123,"2016-12-16 00:36:01.583744",4,38.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0","","NO",162
+69278996,119966991,"2016-12-16 00:38:24.842162",4,38.0,"Mozilla/5.0 (Linux; Android 5.1; LG-H815 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Mobile Safari/537.36","","DK",445747
+69278852,119966773,"2016-12-16 00:38:10.815134",17666862,"","Mozilla/5.0 (Windows NT 10.0; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",59
+69079550,119967113,"2016-12-16 00:40:49.665962",23100318,30003.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+44865100,79484541,"2016-05-05 06:52:05.430474",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4","","DK",533365
+33882185,119965391,"2016-12-16 00:44:00.198161",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3","","DK",445666
+66183500,118237021,"2016-12-10 03:12:38.813651",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68520112,118575383,"2016-12-10 16:21:12.783509",20995305,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",445652
+66183500,118237021,"2016-12-10 14:48:08.558651",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69278706,119966536,"2016-12-16 00:48:42.499812",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+33882185,119965391,"2016-12-16 00:43:54.063569",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3","","DK",445666
+69279201,119967349,"2016-12-16 00:45:42.04021",11830882,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAGWJS; rv:11.0) like Gecko","","US",6360
+66183500,118237021,"2016-12-10 03:09:43.33726",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+44864321,79483274,"2016-05-05 06:26:17.065052",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36","","DK",445757
+69278706,119966536,"2016-12-16 00:49:51.4887",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+69278706,119966536,"2016-12-16 00:50:43.217303",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+65315282,119968200,"2016-12-16 01:03:36.974301",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",445658
+66183500,118237021,"2016-12-10 03:31:18.302575",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118590792,"2016-12-10 17:23:57.592454",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:33:10.029758",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68424756,118398952,"2016-12-09 23:59:42.340001",4,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445747
+33714424,64388291,"2016-01-09 11:31:31.573943",107,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",59
+66183500,118237021,"2016-12-10 03:36:39.238607",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:43:37.858787",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69279959,119968514,"2016-12-16 01:20:09.87297",22823430,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",524754
+68501403,118541082,"2016-12-10 14:15:02.301281",22669223,26875.0,"Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+66183500,118237021,"2016-12-10 00:00:09.736329",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+48254853,119969003,"2016-12-16 01:26:51.994377",16085961,"","Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",445721
+68424756,118398952,"2016-12-09 23:58:38.506714",16138058,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7","","DK",445747
+66183500,118237021,"2016-12-10 03:23:46.217342",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+59988004,118575999,"2016-12-10 16:21:29.586864",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:25:13.753917",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+67174174,119969167,"2016-12-16 01:37:41.686908",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445856
+66183500,118237021,"2016-12-10 03:27:45.410729",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+44777225,118520468,"2016-12-10 14:14:54.562478",4,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 04:00:55.441227",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68775466,119048366,"2016-12-12 15:12:26.673742",4,1.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",532256
+69281233,119970404,"2016-12-16 02:17:37.009394",11830882,1.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0","","DK",445721
+66183500,118237021,"2016-12-10 04:16:23.016038",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69281332,119970552,"2016-12-16 02:25:27.018329",17666862,"","Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G928F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.4 Chrome/38.0.2125.102 Mobile Safari/537.36","","DK",445807
+69281332,119970552,"2016-12-16 02:23:46.594008",4,30205.0,"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G928F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.4 Chrome/38.0.2125.102 Mobile Safari/537.36","","DK",445807
+68424942,118399267,"2016-12-10 00:02:14.192758",17666862,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445668
+66183500,118237021,"2016-12-10 04:04:10.130855",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+60709551,119433720,"2016-12-14 09:17:12.408359",4,38751.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 04:06:21.787333",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69260855,119970725,"2016-12-16 02:50:11.047865",21953285,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445637
+69260855,119970725,"2016-12-16 02:30:28.995105",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445637
+66183500,118237021,"2016-12-10 04:12:08.05686",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68498844,118536471,"2016-12-10 14:15:03.988241",4,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586","","DK",445689
+68430857,118407710,"2016-12-10 04:14:31.003971",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+66183500,118237021,"2016-12-10 04:09:21.593385",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:52:16.61775",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:39:15.222606",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:41:43.245461",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 00:03:03.037",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+46538280,82218493,"2016-05-24 13:12:26.725332",4,38.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/42.0.2311.47 Mobile/12F70 Safari/600.1.4","","DK",59
+69278706,119971104,"2016-12-16 02:50:20.706486",16087282,"","Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",59
+66183500,118237021,"2016-12-10 03:54:06.611146",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+67516661,118567320,"2016-12-10 15:49:07.48478",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36","","DK",445652
+66183500,118237021,"2016-12-10 04:15:14.023672",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66453923,119971131,"2016-12-16 02:51:16.437741",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:42.0) Gecko/20100101 Firefox/42.0","","DK",445856
+66183500,118237021,"2016-12-10 03:46:44.942121",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 03:48:24.833189",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69281458,119970733,"2016-12-16 02:42:31.440878",4,"","Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",59
+66183500,118237021,"2016-12-10 03:56:08.46318",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69260855,119970725,"2016-12-16 02:46:05.133606",17666862,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445637
+66183500,118237021,"2016-12-10 03:58:49.999128",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69281900,119971367,"2016-12-16 03:04:34.222911",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53","","US",6360
+69281902,119971369,"2016-12-16 03:04:36.702976",11830882,1.0,"Mozilla/5.0 (Linux; Android 4.4.2; en-us; SAMSUNG SM-G900T Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 Chrome/28.0.1500.94 Mobile Safari/537.36","","US",2703
+69281289,119971390,"2016-12-16 03:05:32.760724",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1","","DK",59
+66183500,118237021,"2016-12-10 04:27:32.610786",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+66183500,118237021,"2016-12-10 00:05:23.970805",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69260855,119970725,"2016-12-16 03:10:33.798197",16430067,13289.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445637
+44872318,79497262,"2016-05-05 08:47:13.033411",4,1.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36","","DK",458120
+66183500,118237021,"2016-12-10 04:19:28.495896",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+51876025,90707403,"2016-07-13 09:16:39.782839",4,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/6.0.51363 Mobile/12H143 Safari/600.1.4","","DK",445746
+64114683,119971579,"2016-12-16 03:16:08.574953",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13C75 Safari/601.1.46","","DK",445645
+66183500,118237021,"2016-12-10 04:22:31.240902",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+68476441,118576371,"2016-12-10 16:22:18.848756",4,1.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",705419
+66183500,118237021,"2016-12-10 04:24:35.784509",4,"","Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36","","DK",59
+69282105,119971663,"2016-12-16 03:24:37.68634",16085961,"","Mozilla/5.0 (Windows NT 6.1; rv:43.0) Gecko/20100101 Firefox/43.0","","DK",445658
+69282105,119971663,"2016-12-16 03:30:16.685702",16087282,"","Mozilla/5.0 (Windows NT 6.1; rv:43.0) Gecko/20100101 Firefox/43.0","","DK",445658
+69282196,119971793,"2016-12-16 03:30:38.328975",4,9598.0,"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445751
+64114683,119971579,"2016-12-16 03:34:04.551855",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13C75 Safari/601.1.46","","DK",445645
+68425037,118399413,"2016-12-10 00:04:13.816551",11830882,30366.0,"Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13B143 Safari/601.1.46","","DK",445651
+58830659,119973469,"2016-12-16 05:13:05.080141",22270778,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445660
+58830659,119973469,"2016-12-16 05:15:53.637428",20085724,"","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445660
+51875846,90707125,"2016-07-13 09:15:13.025343",4,38.0,"Mozilla/5.0 (Windows NT 6.1; rv:39.0) Gecko/20100101 Firefox/39.0","","DK",445660
+65951812,119973957,"2016-12-16 05:25:41.443332",23308105,26875.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445737
+65951812,119973957,"2016-12-16 05:25:57.547423",23308105,26875.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445737
+69283626,119974025,"2016-12-16 05:27:40.389959",4,38.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1003.1 Safari/535.19 Awesomium/1.7.5.1","","US",1553
+67876329,119974198,"2016-12-16 05:33:27.487401",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56","","DK",59
+69290925,119989357,"2016-12-16 08:10:43.412692",23350554,26883.0,"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","DK",445658
+50342406,119989446,"2016-12-16 08:11:02.285822",11830882,1.0,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445679
+62002466,119989714,"2016-12-16 08:12:11.428604",11830882,"","Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1","","DK",445866
+57692629,119989804,"2016-12-16 08:12:35.135244",4,30473.0,"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+69199853,119989960,"2016-12-16 08:13:14.906501",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",445813
+69291270,119990117,"2016-12-16 08:13:48.750686",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko","","GB",376191
+68922751,119981693,"2016-12-16 08:14:20.51888",114,"","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",445658
+59301842,119990760,"2016-12-16 08:16:13.058536",4,38.0,"Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G920F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Mobile Safari/537.36","","DK",59
+69289065,119985182,"2016-12-16 08:23:12.956877",4,38.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/537.86.3","","DK",445654
+68809073,119992564,"2016-12-16 08:23:16.255014",23353259,30004.0,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9","","DK",525075
+60840386,119997660,"2016-12-16 08:42:27.886732",4,"","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240","","CN",47667
+69292579,119992791,"2016-12-16 08:24:08.898044",4,38.0,"Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/47.0.2526.70 Mobile/13C75 Safari/601.1.46","","DK",445676
+69292431,119992462,"2016-12-16 08:24:29.276885",16661743,"","Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko","","DK",531609
+68475140,118492925,"2016-12-10 12:09:23.334806",16089033,"","Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko","","DK",445665
+55956651,118567469,"2016-12-10 15:49:38.694787",16330261,1.0,"Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)","","DK",59
+60860043,119993087,"2016-12-16 08:25:18.221213",4,38.0,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+60860043,119993087,"2016-12-16 08:25:28.753773",4,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+60860043,119993087,"2016-12-16 08:25:40.676785",16087282,"","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36","","DK",59
+35676800,64890742,"2016-01-12 18:19:52.647448",107,"","Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)","","DK",445691
