@@ -1,5 +1,3 @@
-
-
 server <- function()
 {
   print("Starting server...")
@@ -12,7 +10,7 @@ server <- function()
   print("Loading geoip data...")
   geoip_data <- fread(input="data/geoip_city_location.csv")
   cities <- rep(NA, max(geoip_data$loc_id))
-  cities[geoip_data$loc_id] <- as.character(geoip_data$cities)
+  cities[geoip_data$loc_id] <- as.character(geoip_data$city)
   cities[59] <- "Copenhagen"
   cities[3] <- "Bern"
   cities[162] <- "Oslo"
@@ -22,12 +20,11 @@ server <- function()
   
   print("Loading visitors' history data...")
   visitors_history <- fread("data/visitors_history.csv")
+  setkey(visitors_history, visitor_id)
   
   print("Loading session data...")
-  session_data <- fread("data/session_data.csv")
-  session_data[, session_id:=NULL]
-  session_data[, visitor_id:=NULL]
-  session_data[, is_checkout_page:=NULL]
+  train_data <- fread("data/train_data.csv")
+  train_data[, is_checkout_page:=NULL]
   
   print("Loading events distribution...")
   events_distribution <- fread("data/events_distribution.csv")
@@ -37,16 +34,10 @@ server <- function()
   
   local_session_history <- matrix(numeric(), 0, 2 + nrow(events_distribution))
   colnames(local_session_history) <- c("session_id", "n_past_events", events_distribution$n_events)
-  
 
-  
-  #load everything
-  #...
-  
-  
   while (TRUE)
   {
-    print(paste("Listening", PORT, "..."))
+    print(paste("Listening port", PORT, "..."))
     con <- socketConnection(host = "localhost", port = PORT, blocking = TRUE, 
                             server = TRUE, open = "r+")
     
@@ -65,21 +56,28 @@ server <- function()
     
     if(is.element(current_session, local_session_history[, "session_id"]))
     {
-      local_session <- local_session_history[local_session_history[, "session_id"] == current_session, ]
-      local_session[, "n_past_events"] <- local_session[, "n_past_events"] + 1
+      #get number of events
+      n_past_events <- local_session_history[local_session_history[, "session_id"] == current_session, 
+                                             "n_past_events"]
       
-      local_session[, as.character(local_session[, "n_past_events"] - 1)] <- 0
+      #increment number of events
+      local_session_history[local_session_history[, "session_id"] == current_session, 
+                            "n_past_events"] <- n_past_events + 1
       
       #adjust probability distribution
-      local_session_history[local_session_history[, "session_id"] == current_session,
-                            ]
-      local_session_history[local_session_history[, "session_id"] == current_session, ] <- local_session
-      #FINISH THIS!
-    } else 
+      current_distribution <- events_distribution$probability
+      current_distribution[1:n_past_events] <- 0
+      current_distribution <- current_distribution / sum(current_distribution)
+      current_distribution[n_past_events + 1] <- 0
+      
+      #write result
+      response <- local_session_history[local_session_history[, "session_id"] == current_session, 
+                                        3:ncol(local_session_history)] %*% current_distribution
+    } else
     {
       print("Process time features...")
       raw_data[, time:=substr(raw_data$time, 1, 19)]
-      raw_data[, time:=as.numeric(fast_strptime(raw_data$time, format="%Y-%m-%d %H:%M:%S"))]
+      raw_data[, time:=as.numeric(strptime(raw_data$time, format="%Y-%m-%d %H:%M:%S"))]
       
       ptime <- as.POSIXct(raw_data$time, tz="UTC", origin="1970-01-01")
       raw_data[, hour:=as.character(format(ptime, format="%H"))]
@@ -95,16 +93,8 @@ server <- function()
       setnames(raw_data, "cc", "country")
       setnames(raw_data, "cloc", "city")
       
-      print("Process page and source ID...")
-      
-      if(is.na(raw_data$source_id) == TRUE)
-        raw_data$source_id <- "0"
-      
-      setnames(raw_data, "source_id", "first_source")
-      setnames(raw_data, "page_id", "first_page")
-      
       print("Process visitor's history...")
-      history_data <- visitors_history[raw_data$visitor_id]
+      history_data <- visitors_history[visitor_id == raw_data$visitor_id]
       
       if(complete.cases(history_data) == FALSE)
       {
@@ -112,35 +102,40 @@ server <- function()
         raw_data[, h_events_number:=0]
         raw_data[, h_checkout_number:=0]
         raw_data[, h_mean_session_time:=0]
-      }
-      
-      if(nrow(history_data) > 0)
+      } else
       {
-        merge(raw_data, history_data, by="visitor_id")
+        raw_data <- merge(raw_data, history_data, by="visitor_id")
       }
       
       #parse user agent
       #...
-      raw_data[, user_agent:=NULL]
       
       #remove redundant columns
       raw_data[, visitor_id:=NULL]
       raw_data[, session_id:=NULL]
+      raw_data[, source_id:=NULL]
+      raw_data[, page_id:=NULL]
+      raw_data[, user_agent:=NULL]
       raw_data[, is_checkout_page:=NULL]
       
+      #build model matrix
       raw_data <- cbind(raw_data, n_events=events_distribution$n_events)
-      raw_data <- rbind(raw_data, session_data)
+      raw_data <- rbind(raw_data, train_data)
       
       mm <- sparse.model.matrix(~. -1, raw_data)
       
+      #predict
       pred <- predict(xgb_model, mm[1:nrow(events_distribution), ])
       
-      #TODO: finish this part
-      #Return visitors' history!!!
+      #add entry in local session history
+      local_session_history <- rbind(local_session_history, c(current_session, 1, pred))
+        
+      response <- pred[2:length(pred)] %*% events_distribution$probability[2:length(pred)]
     }
     
     writeLines(response, con)
     
+    print("Finished!")
     close(con)
   }
 }

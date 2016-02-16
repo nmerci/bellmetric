@@ -66,13 +66,6 @@ session_data[, cloc:=cities[session_data$cloc]]
 #rename variables
 colnames(session_data)[colnames(session_data) %in% c("cc", "cloc")] <- c("country", "city")
 
-#add first source and page id's
-first_source_page <- unique(click_data[, .(session_id, first_source=as.character(source_id), 
-                                                       first_page=as.character(page_id))], 
-                            by="session_id")
-
-session_data <- merge(session_data, first_source_page, by="session_id")
-
 #add number of events per session
 n_events <- click_data[, .(n_events=length(is_checkout_page)), by="session_id"]
 session_data <- merge(session_data, n_events, by="session_id")
@@ -80,13 +73,11 @@ session_data <- merge(session_data, n_events, by="session_id")
 #parse user agent column
 #this is done in python code
 #TODO: implement it here or use rPython
-
-
-
 session_data[, user_agent:=NULL]
 
 #create visitors' history features
 #this is done in python code
+#TODO: implement it here or use rPython
 
 #save session_data in CSV format
 write.csv(session_data, file="data/session_data.csv", row.names=F)
@@ -98,6 +89,26 @@ setkey(events_distribution, n_events)
 
 #save events_distribution in CSV format
 write.csv(events_distribution, file="data/events_distribution.csv", row.names=F)
+
+#create train data
+train_data <- session_data
+
+train_data[, session_id:=NULL]
+train_data[, visitor_id:=NULL]
+
+#replace NA's
+train_data$city[is.na(train_data$city)] <- "Other"
+
+#remove outliers
+daily_checkouts <- train_data[, .(checkouts=sum(is_checkout_page)), by="year_day"]
+train_data <- train_data[!(train_data$year_day %in% daily_checkouts$year_day[daily_checkouts$checkouts < 50])]
+train_data <- train_data[train_data$year_day != 331] #Black Friday
+
+#remove sessions with the only event
+train_data <- train_data[train_data$n_events > 1]
+
+#save train_data in CSV format
+write.csv(train_data, file="data/train_data.csv", row.names=F)
 
 #concatenate pages
 pages_sequence <- click_data[, .(page=list(c(page_id))), by="session_id"]
