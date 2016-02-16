@@ -3,9 +3,11 @@
 server <- function()
 {
   print("Starting server...")
+  PORT <- 6011
   
   #set locale for weekday
   Sys.setlocale("LC_TIME", "C")
+  
   
   print("Loading geoip data...")
   geoip_data <- fread(input="data/geoip_city_location.csv")
@@ -30,6 +32,12 @@ server <- function()
   print("Loading events distribution...")
   events_distribution <- fread("data/events_distribution.csv")
   
+  print("Loading xgboost model...")
+  xgb_model <- xgb.load("R/xgb_model")
+  
+  local_session_history <- matrix(numeric(), 0, 2 + nrow(events_distribution))
+  colnames(local_session_history) <- c("session_id", "n_past_events", events_distribution$n_events)
+  
 
   
   #load everything
@@ -38,11 +46,9 @@ server <- function()
   
   while (TRUE)
   {
-    PORT <- 6011
     print(paste("Listening", PORT, "..."))
     con <- socketConnection(host = "localhost", port = PORT, blocking = TRUE, 
                             server = TRUE, open = "r+")
-    
     
     raw_data <- readLines(con, 1)
     print(paste("New event:", raw_data))
@@ -55,66 +61,83 @@ server <- function()
     
     #save current session
     current_session <- raw_data$session_id
+    response <- 0
     
-    print("Process time features...")
-    raw_data[, time:=substr(raw_data$time, 1, 19)]
-    raw_data[, time:=as.numeric(fast_strptime(raw_data$time, format="%Y-%m-%d %H:%M:%S"))]
-    
-    ptime <- as.POSIXct(raw_data$time, tz="UTC", origin="1970-01-01")
-    raw_data[, hour:=as.character(format(ptime, format="%H"))]
-    raw_data[, week_day:=as.character(format(ptime, format="%a"))]
-    raw_data[, month_day:=as.character(format(ptime, format="%d"))]
-    raw_data[, year_day:=as.numeric(format(ptime, format="%j"))]
-    raw_data[, time:=NULL]
-    
-    print("Process city...")
-    raw_data$cloc <- cities[raw_data$cloc]
-    
-    #rename columns
-    setnames(raw_data, "cc", "country")
-    setnames(raw_data, "cloc", "city")
-    
-    print("Process page and source ID...")
-    
-    if(is.na(raw_data$source_id) == TRUE)
-      raw_data$source_id <- "0"
+    if(is.element(current_session, local_session_history[, "session_id"]))
+    {
+      local_session <- local_session_history[local_session_history[, "session_id"] == current_session, ]
+      local_session[, "n_past_events"] <- local_session[, "n_past_events"] + 1
       
-    setnames(raw_data, "source_id", "first_source")
-    setnames(raw_data, "page_id", "first_page")
-    
-    print("Process visitor's history...")
-    history_data <- visitors_history[raw_data$visitor_id]
-    
-    if(complete.cases(history_data) == FALSE)
+      local_session[, as.character(local_session[, "n_past_events"] - 1)] <- 0
+      
+      #adjust probability distribution
+      local_session_history[local_session_history[, "session_id"] == current_session,
+                            ]
+      local_session_history[local_session_history[, "session_id"] == current_session, ] <- local_session
+      #FINISH THIS!
+    } else 
     {
-      raw_data[, h_session_number:=0]
-      raw_data[, h_events_number:=0]
-      raw_data[, h_checkout_number:=0]
-      raw_data[, h_mean_session_time:=0]
+      print("Process time features...")
+      raw_data[, time:=substr(raw_data$time, 1, 19)]
+      raw_data[, time:=as.numeric(fast_strptime(raw_data$time, format="%Y-%m-%d %H:%M:%S"))]
+      
+      ptime <- as.POSIXct(raw_data$time, tz="UTC", origin="1970-01-01")
+      raw_data[, hour:=as.character(format(ptime, format="%H"))]
+      raw_data[, week_day:=as.character(format(ptime, format="%a"))]
+      raw_data[, month_day:=as.character(format(ptime, format="%d"))]
+      raw_data[, year_day:=as.numeric(format(ptime, format="%j"))]
+      raw_data[, time:=NULL]
+      
+      print("Process city...")
+      raw_data$cloc <- cities[raw_data$cloc]
+      
+      #rename columns
+      setnames(raw_data, "cc", "country")
+      setnames(raw_data, "cloc", "city")
+      
+      print("Process page and source ID...")
+      
+      if(is.na(raw_data$source_id) == TRUE)
+        raw_data$source_id <- "0"
+      
+      setnames(raw_data, "source_id", "first_source")
+      setnames(raw_data, "page_id", "first_page")
+      
+      print("Process visitor's history...")
+      history_data <- visitors_history[raw_data$visitor_id]
+      
+      if(complete.cases(history_data) == FALSE)
+      {
+        raw_data[, h_session_number:=0]
+        raw_data[, h_events_number:=0]
+        raw_data[, h_checkout_number:=0]
+        raw_data[, h_mean_session_time:=0]
+      }
+      
+      if(nrow(history_data) > 0)
+      {
+        merge(raw_data, history_data, by="visitor_id")
+      }
+      
+      #parse user agent
+      #...
+      raw_data[, user_agent:=NULL]
+      
+      #remove redundant columns
+      raw_data[, visitor_id:=NULL]
+      raw_data[, session_id:=NULL]
+      raw_data[, is_checkout_page:=NULL]
+      
+      raw_data <- cbind(raw_data, n_events=events_distribution$n_events)
+      raw_data <- rbind(raw_data, session_data)
+      
+      mm <- sparse.model.matrix(~. -1, raw_data)
+      
+      pred <- predict(xgb_model, mm[1:nrow(events_distribution), ])
+      
+      #TODO: finish this part
+      #Return visitors' history!!!
     }
-    
-    if(nrow(history_data) > 0)
-    {
-      merge(raw_data, history_data, by="visitor_id")
-    }
-    
-    #parse user agent
-    #...
-    raw_data[, user_agent:=NULL]
-    
-    #remove redundant columns
-    raw_data[, visitor_id:=NULL]
-    raw_data[, session_id:=NULL]
-    raw_data[, is_checkout_page:=NULL]
-
-    raw_data <- cbind(raw_data, n_events=events_distribution$n_events)
-    raw_data <- rbind(raw_data, session_data)
-    
-    mm <- sparse.model.matrix(~. -1, raw_data)
-    mm[1:nrow(events_distribution), ]
-    
-    #TODO: finish this part
-    #Return visitor history!!!
     
     writeLines(response, con)
     
