@@ -8,7 +8,7 @@ client <- function()
     f <- file("stdin")
     open(f)
     
-    print("Enter text to be upper-cased, q to quit")
+    print("Enter new event, q to quit")
     sendme <- readLines(f, n = 1)
     
     if (tolower(sendme) == "q")
@@ -18,7 +18,9 @@ client <- function()
     
     write_resp <- writeLines(sendme, con)
     server_resp <- readLines(con, 1)
-    print(paste("Your upper cased text:  ", server_resp))
+    print(paste("Probability to checkout =", server_resp))
+    
+    Sys.sleep(2)
     
     close(con)
   }

@@ -1,3 +1,28 @@
+if(!require("data.table"))
+{
+  install.packages("data.table")
+  library("data.table")
+}
+
+#load lubridate package
+if(!require("lubridate"))
+{
+  install.packages("lubridate")
+  library("lubridate")
+}
+
+if(!require("Matrix"))
+{
+  install.packages("Matrix")
+  library("Matrix")
+}
+
+if(!require("xgboost"))
+{
+  install.packages("xgboost")
+  library("xgboost")
+}
+
 server <- function()
 {
   print("Starting server...")
@@ -22,7 +47,7 @@ server <- function()
   visitors_history <- fread("data/visitors_history.csv")
   setkey(visitors_history, visitor_id)
   
-  print("Loading session data...")
+  print("Loading train data...")
   train_data <- fread("data/train_data.csv")
   train_data[, is_checkout_page:=NULL]
   
@@ -133,7 +158,7 @@ server <- function()
       response <- pred[2:length(pred)] %*% events_distribution$probability[2:length(pred)]
     }
     
-    writeLines(response, con)
+    writeLines(as.character(response), con)
     
     print("Finished!")
     close(con)
