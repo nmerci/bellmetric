@@ -20,11 +20,11 @@ if(!require("Matrix"))
 train_data <- fread("data/train_data.csv")
 
 #create model matrix
-train_matrix <- sparse.model.matrix(~ . -is_checkout_page -1, train_data)
+train_matrix <- sparse.model.matrix(~ . -is_checkout -n_sessions -n_events -n_checkouts -events_per_session -1, train_data)
 
 #train model
-xgb_model <- xgboost(data=train_matrix, label=train_data$is_checkout_page, 
-                     eta=0.1, nrounds=200, objective="binary:logistic", eval_metric="auc")
+xgb_model <- xgboost(data=train_matrix, label=train_data$is_checkout, 
+                     eta=0.1, nrounds=500, objective="binary:logistic", eval_metric="auc")
 
 #save model to file
 xgb.save(xgb_model, "R/xgb_model")

@@ -31,16 +31,8 @@ server <- function()
   #set locale for weekday
   Sys.setlocale("LC_TIME", "C")
   
-  
   print("Loading geoip data...")
-  geoip_data <- fread(input="data/geoip_city_location.csv")
-  cities <- rep(NA, max(geoip_data$loc_id))
-  cities[geoip_data$loc_id] <- as.character(geoip_data$city)
-  cities[59] <- "Copenhagen"
-  cities[3] <- "Bern"
-  cities[162] <- "Oslo"
-  cities[190] <- "Stockholm"
-  cities[cities == ""] <- NA
+  cities <- fread(input="data/cities.csv")
   cities[is.na(cities)] <- "Other"
   
   print("Loading visitors' history data...")
@@ -51,17 +43,26 @@ server <- function()
   train_data <- fread("data/train_data.csv")
   train_data[, is_checkout_page:=NULL]
   
+  #@this might be improved
   print("Loading events distribution...")
   events_distribution <- fread("data/events_distribution.csv")
+  MAX_N_EVENTS <- 100
+  events_distribution <- events_distribution[1:MAX_N_EVENTS]
+  events_distribution$probability <- events_distribution$probability / sum(events_distribution$probability)
   
   print("Loading xgboost model...")
   xgb_model <- xgb.load("R/xgb_model")
   
+  #@another model shoud be added
+  #...
+  
+  #@this might be improved
   local_session_history <- matrix(numeric(), 0, 2 + nrow(events_distribution))
   colnames(local_session_history) <- c("session_id", "n_past_events", events_distribution$n_events)
 
   while (TRUE)
   {
+    #@check for stability
     print(paste("Listening port", PORT, "..."))
     con <- socketConnection(host = "localhost", port = PORT, blocking = TRUE, 
                             server = TRUE, open = "r+")
@@ -79,6 +80,7 @@ server <- function()
     current_session <- raw_data$session_id
     response <- 0
     
+    #@this might be improved
     if(is.element(current_session, local_session_history[, "session_id"]))
     {
       #get number of events
@@ -86,8 +88,11 @@ server <- function()
                                              "n_past_events"]
       
       #increment number of events
-      local_session_history[local_session_history[, "session_id"] == current_session, 
-                            "n_past_events"] <- n_past_events + 1
+      if(n_past_events < MAX_N_EVENTS)
+      {
+        local_session_history[local_session_history[, "session_id"] == current_session, 
+                              "n_past_events"] <- n_past_events + 1
+      }
       
       #adjust probability distribution
       current_distribution <- events_distribution$probability
@@ -97,10 +102,11 @@ server <- function()
       
       #write result
       response <- local_session_history[local_session_history[, "session_id"] == current_session, 
-                                        3:ncol(local_session_history)] %*% current_distribution
+                                        (2 + n_past_events + 1):ncol(local_session_history)] %*% 
+        current_distribution[n_past_events:MAX_N_EVENTS]
     } else
     {
-      print("Process time features...")
+      print("Processing time features...")
       raw_data[, time:=substr(raw_data$time, 1, 19)]
       raw_data[, time:=as.numeric(strptime(raw_data$time, format="%Y-%m-%d %H:%M:%S"))]
       
@@ -108,34 +114,40 @@ server <- function()
       raw_data[, hour:=as.character(format(ptime, format="%H"))]
       raw_data[, week_day:=as.character(format(ptime, format="%a"))]
       raw_data[, month_day:=as.character(format(ptime, format="%d"))]
-      raw_data[, year_day:=as.numeric(format(ptime, format="%j"))]
+      raw_data[, year_day:=as.numeric(format(ptime, format="%j"))] #adjust year day
       raw_data[, time:=NULL]
       
-      print("Process city...")
+      print("Processing city...")
+      #@check names for cc 
+      #...
       raw_data$cloc <- cities[raw_data$cloc]
+      if(is.na(raw_data$cloc))
+        raw_data$cloc <- "Other"
       
-      #rename columns
-      setnames(raw_data, "cc", "country")
-      setnames(raw_data, "cloc", "city")
+      print("Processing user agent...")
+      raw_data[, c("os", "device"):=list("Other", "Other")]
       
-      print("Process visitor's history...")
+      raw_data$device[grep("Linux|Android|Mobile|BB10|iPhone|iPod|iPad", raw_data$user_agent)] <- "Mobile"
+      raw_data$device[grep("Windows|compatible|Macintosh", raw_data$user_agent)] <- "Desktop"
+      
+      raw_data$os[grep("Linux|Android", raw_data$user_agent)] <- "Android"
+      raw_data$os[grep("iPhone|iPod|iPad|Macintosh", raw_data$user_agent)] <- "Mac_iOS"
+      raw_data$os[grep("Windows|compatible", raw_data$user_agent)] <- "Windows"
+      
+      print("Processing visitor's history...")
       history_data <- visitors_history[visitor_id == raw_data$visitor_id]
       
       if(complete.cases(history_data) == FALSE)
       {
-        raw_data[, h_session_number:=0]
-        raw_data[, h_events_number:=0]
-        raw_data[, h_checkout_number:=0]
-        raw_data[, h_mean_session_time:=0]
+        #@use another predictive model in this case instead
+        raw_data[, c("n_sessions", "n_checkouts", "events_per_session"):=list(0, 0, 0)]
       } else
       {
         raw_data <- merge(raw_data, history_data, by="visitor_id")
       }
       
-      #parse user agent
-      #...
-      
       #remove redundant columns
+      print("Cleaning data...")
       raw_data[, visitor_id:=NULL]
       raw_data[, session_id:=NULL]
       raw_data[, source_id:=NULL]
@@ -144,18 +156,21 @@ server <- function()
       raw_data[, is_checkout_page:=NULL]
       
       #build model matrix
+      #@this should be optimized
+      print("Building model matrix")
       raw_data <- cbind(raw_data, n_events=events_distribution$n_events)
       raw_data <- rbind(raw_data, train_data)
       
       mm <- sparse.model.matrix(~. -1, raw_data)
       
       #predict
+      print("Predicting...")
       pred <- predict(xgb_model, mm[1:nrow(events_distribution), ])
+        
+      response <- pred[2:length(pred)] %*% events_distribution$probability[2:length(pred)]
       
       #add entry in local session history
       local_session_history <- rbind(local_session_history, c(current_session, 1, pred))
-        
-      response <- pred[2:length(pred)] %*% events_distribution$probability[2:length(pred)]
     }
     
     writeLines(as.character(response), con)
