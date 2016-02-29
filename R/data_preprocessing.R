@@ -51,13 +51,6 @@ session_data[, start_time:=NULL]
 cities <- fread(input="data/cities.csv")
 session_data[, cloc:=cities$city[session_data$cloc]]
 
-#add number of events per session
-aggregated_events <- click_data[, .(n_events=list(is_checkout_page)), by="session_id"]
-session_data[, n_events:=sapply(aggregated_events$n_events, 
-                                function(x) {
-                                  result <- match("1", x, NA)
-                                  if(is.na(result)) length(x) else result})]
-
 #parse user agent column
 session_data[, c("os", "device"):=list(NA, NA)]
 
@@ -69,6 +62,13 @@ session_data$os[grep("iPhone|iPod|iPad|Macintosh", session_data$user_agent)] <- 
 session_data$os[grep("Windows|compatible", session_data$user_agent)] <- "Windows"
 
 session_data[, user_agent:=NULL]
+
+#add number of events per session
+aggregated_events <- click_data[, .(n_events=list(is_checkout_page)), by="session_id"]
+session_data[, n_events:=sapply(aggregated_events$n_events, 
+                                function(x) {
+                                  result <- match("1", x, NA)
+                                  if(is.na(result)) length(x) else result})]
 
 #save session_data in CSV format
 write.csv(session_data, file="data/session_data.csv", row.names=F)
@@ -82,23 +82,31 @@ visitors_history <- session_data[, .(n_sessions=length(session_id),
 #save visitors_history in CSV format
 write.csv(visitors_history, file="data/visitors_history.csv", row.names=F)
 
-#calculate distribution for number of events
-events_distribution <- session_data[, .(probability=length(is_checkout) / nrow(session_data)), 
-                                    by="n_events"]
-setkey(events_distribution, n_events)
-
-#save events_distribution in CSV format
-write.csv(events_distribution, file="data/events_distribution.csv", row.names=F)
+#################################################################################################################
 
 #create train data
 train_data <- session_data
 
 #add visitors' history
-train_data <- merge(session_data, visitors_history, by="visitor_id")
+train_data <- merge(train_data, visitors_history, by="visitor_id")
 
 #remove redundant columns
 train_data[, session_id:=NULL]
 train_data[, visitor_id:=NULL]
+
+#group rare cc and cloc
+major_cc <- names(sort(table(train_data$cc), decreasing=T)[1:12]) #99% of countries
+major_cloc <- names(sort(table(train_data$cloc), decreasing=T)[1:342]) #95% of cities
+
+train_data$cc[!(train_data$cc %in% major_cc)] <- "Other"
+train_data$cloc[!(train_data$cloc %in% major_cloc)] <- "Other"
+
+#save names in file
+write(major_cc, "data/cc.txt")
+write(major_cloc, "data/cloc.txt")
+
+#group rare n_events
+train_data$n_events[train_data$n_events > 29] <- 30 #99% of n_events
 
 #replace NA's
 train_data$cloc[is.na(train_data$cloc)] <- "Other"
@@ -110,11 +118,21 @@ daily_checkouts <- train_data[, .(checkouts=sum(is_checkout == "1")), by="year_d
 train_data <- train_data[!(train_data$year_day %in% daily_checkouts$year_day[daily_checkouts$checkouts < 50])]
 train_data <- train_data[train_data$year_day != 331] #Black Friday
 
+#calculate distribution for number of events
+events_distribution <- train_data[, .(probability=length(is_checkout) / nrow(session_data)), by="n_events"]
+setkey(events_distribution, n_events)
+events_distribution[, n_events:=NULL]
+
+#save events_distribution in CSV format
+write.csv(events_distribution, file="data/events_distribution.csv", row.names=F)
+
 #remove sessions with the only event
 train_data <- train_data[train_data$n_events > 1]
 
 #save train_data in CSV format
 write.csv(train_data, file="data/train_data.csv", row.names=F)
+
+#################################################################################################################
 
 #concatenate pages
 pages_sequence <- click_data[, .(page=list(c(page_id))), by="session_id"]

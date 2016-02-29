@@ -1,0 +1,12 @@
+DK
+US
+NO
+SE
+EU
+DE
+GB
+IE
+FO
+GL
+ES
+FR
