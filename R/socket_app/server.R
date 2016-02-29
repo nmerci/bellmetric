@@ -48,14 +48,15 @@ server <- function()
   
   print("Loading events distribution...")
   events_distribution <- fread("data/events_distribution.csv")
-  MAX_N_EVENTS <- nrow(events_distribution)
+  events_distribution <- events_distribution$probability
+  MAX_N_EVENTS <- length(events_distribution)
   
   print("Loading xgboost models...")
   xgb_model_without_history <- xgb.load("R/models/model_without_history.xgb")
   xgb_model_with_history <- xgb.load("R/models/model_with_history.xgb")
   
-  local_session_history <- matrix(data=numeric(), nrow=0, ncol=3 + MAX_N_EVENTS)
-  colnames(local_session_history) <- c("session_id", "n_past_events", "is_checkout", 1:MAX_N_EVENTS)
+  local_session_history <- matrix(data=numeric(), nrow=0, ncol=2 + MAX_N_EVENTS)
+  colnames(local_session_history) <- c("n_past_events", "is_checkout", 1:MAX_N_EVENTS)
 
   while (TRUE)
   {
@@ -73,79 +74,41 @@ server <- function()
                       "\n", raw_data)
     
     raw_data <- as.data.table(read.csv(text=raw_data))
-    
-    #save current session
-    current_session <- raw_data$session_id
+
     response <- numeric()
     
     if(is.na(raw_data$is_checkout_page) == TRUE)
     {
-      if(is.element(current_session, local_session_history[, "session_id"]) == TRUE)
+      if(raw_data$session_id %in% rownames(local_session_history) == TRUE)
       {
-        if(local_session_history[local_session_history[, "session_id"] == current_session, "is_checkout"] == FALSE)
+        local_session <- local_session_history[as.character(raw_data$session_id), "session_id"]
+        
+        if(local_session["is_checkout"] == 0)
         {
-          #predict based on session history
-          #...
-        } else
+          #increment number of past events
+          if(local_session["n_past_events"] < MAX_N_EVENTS - 1)
+          {
+            local_session_history[as.character(local_session["session_id"]), "n_past_events"] <- 
+              local_session_history[as.character(local_session["session_id"]), "n_past_events"] + 1
+            
+            #adjust events distribution for current number of clicks
+            current_distribution <- events_distribution[local_session["n_past_events"]:MAX_N_EVENTS] / 
+              sum(events_distribution[local_session["n_past_events"]:MAX_N_EVENTS])
+            
+            #here one value from the beginnig is skipped in order to include probability 
+            #this event will be the last
+            response <- as.numeric(local_session[(2 + local_session["n_past_events"] + 1):MAX_N_EVENTS] %*%
+                                     current_distribution[2:length(current_distribution)])
+          } else
+          {
+            print("Reached maximum number of events per session")
+            response <- 0.5 * local_session[2 + MAX_N_EVENTS]
+          }
+        } else #there has already been checkout
         {
           response <- "There has already been checkout in this session"
         }
-      } else
-      {
-        #predict using xgboost model
-        #...
-      }
-    } else
-    {
-      if(is.element(current_session, local_session_history[, "session_id"]) == TRUE)
-      {
-        #update existing entry in local session history
-        #...
-      } else
-      {
-        #create new entry in local session history
-        #...
-      }
-      
-      response <- "There has already been checkout in this session"
-    }
-    
-    #send predicted value to the socket
-    writeLines(as.character(response), con)
-    
-    print("Finished!")
-    close(con)
-    
-    
-    
-    #if not checkout do prediction
-    if(is.na(raw_data$is_checkout_page))
-    {
-      #@this might be improved
-      if(is.element(current_session, local_session_history[, "session_id"]))
-      {
-        #get number of events
-        n_past_events <- local_session_history[local_session_history[, "session_id"] == current_session, 
-                                               "n_past_events"]
-        
-        #increment number of events
-        if(n_past_events < MAX_N_EVENTS)
-        {
-          local_session_history[local_session_history[, "session_id"] == current_session, 
-                                "n_past_events"] <- n_past_events + 1
-        }
-        
-        #adjust probability distribution
-        current_distribution <- events_distribution$probability
-        current_distribution[1:n_past_events] <- 0
-        current_distribution <- current_distribution / sum(current_distribution)
-        current_distribution[n_past_events + 1] <- 0
-        
-        #write result
-        response <- local_session_history[local_session_history[, "session_id"] == current_session, 
-                                          (2 + n_past_events + 1):ncol(local_session_history)] %*% 
-          current_distribution[n_past_events:MAX_N_EVENTS]
-      } else
+      } else #there is no entry in local_session_history
       {
         print("Processing time features...")
         raw_data[, time:=substr(raw_data$time, 1, 19)]
@@ -158,11 +121,15 @@ server <- function()
         raw_data[, year_day:=as.numeric(format(ptime, format="%j"))] #adjust year day
         raw_data[, time:=NULL]
         
-        print("Processing city...")
-        #@check names for cc 
-        #...
+        print("Processing geoip data...")
         raw_data$cloc <- cities[raw_data$cloc]
         if(is.na(raw_data$cloc))
+          raw_data$cloc <- "Other"
+        
+        if(!(raw_data$cc %in% major_cc))
+          raw_data$cc <- "Other"
+        
+        if(!(raw_data$cloc %in% major_cloc))
           raw_data$cloc <- "Other"
         
         print("Processing user agent...")
@@ -175,49 +142,59 @@ server <- function()
         raw_data$os[grep("iPhone|iPod|iPad|Macintosh", raw_data$user_agent)] <- "Mac_iOS"
         raw_data$os[grep("Windows|compatible", raw_data$user_agent)] <- "Windows"
         
-        print("Processing visitor's history...")
-        history_data <- visitors_history[visitor_id == raw_data$visitor_id]
+        current_session <- raw_data$session_id
+        current_visitor <- raw_data$visitor_id
         
-        if(complete.cases(history_data) == FALSE)
-        {
-          #@use another predictive model in this case instead
-          raw_data[, c("n_sessions", "n_checkouts", "events_per_session"):=list(0, 0, 0)]
-        } else
-        {
-          raw_data <- merge(raw_data, history_data, by="visitor_id")
-        }
-        
-        #remove redundant columns
         print("Cleaning data...")
-        raw_data[, visitor_id:=NULL]
         raw_data[, session_id:=NULL]
+        raw_data[, visitor_id:=NULL]
         raw_data[, source_id:=NULL]
         raw_data[, page_id:=NULL]
         raw_data[, user_agent:=NULL]
         raw_data[, is_checkout_page:=NULL]
         
-        #build model matrix
-        #@this should be optimized
-        print("Building model matrix")
-        raw_data <- cbind(raw_data, n_events=events_distribution$n_events)
+        print("Building model matrix...")
+        raw_data <- cbind(raw_data, n_events=1:MAX_N_EVENTS)
         raw_data <- rbind(raw_data, train_data)
         
-        mm <- sparse.model.matrix(~. -1, raw_data)
+        mm <- sparse.model.matrix(~. -1, raw_data)[1:MAX_N_EVENTS, ]
+        pred <- numeric()
         
-        #predict
-        print("Predicting...")
-        pred <- predict(xgb_model, mm[1:nrow(events_distribution), ])
+        if(raw_data$visitor_id %in% visitors_history$visitor_id)
+        {
+          #@this might be improved
+          print("Processing visitors' history...")
+          mm <- cBind(mm, Matrix(as.matrix(
+                  rBind(visitors_history[visitor_id == current_visitor])[rep(1, MAX_N_EVENTS)])))
+          
+          print("Predicting...")
+          pred <- predict(xgb_model_with_history, mm)
+        } else
+        {
+          print("Predicting...")
+          pred <- predict(xgb_model_without_history, mm)
+        }
         
-        response <- pred[2:length(pred)] %*% events_distribution$probability[2:length(pred)]
+        response <- pred[2:length(pred)] %*% events_distribution[2:length(pred)]
         
-        #add entry in local session history
-        local_session_history <- rbind(local_session_history, c(current_session, 1, pred))
+        local_session_history <- rbind(local_session_history, c(1, 0, pred))
+        rownames(local_session_history)[nrow(local_session_history)] <- current_session
       }
-    } else
+    } else #current event contains checkout
     {
-      #set is_checkout in local session history
+      if(raw_data$session_id %in% rownames(local_session_history) == TRUE)
+      {
+        local_session_history[as.character(raw_data$session_id), "is_checkout"] <- 1
+      } else
+      {
+        local_session_history <- rbind(local_session_history, c(1, 1, rep(0, MAX_N_EVENTS)))
+        rownames(local_session_history)[nrow(local_session_history)] <- as.character(raw_data$session_id)
+      }
+      
+      response <- "There has already been checkout in this session"
     }
     
+    #send predicted value to the socket
     writeLines(as.character(response), con)
     
     print("Finished!")
