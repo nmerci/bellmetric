@@ -81,28 +81,30 @@ server <- function()
     {
       if(raw_data$session_id %in% rownames(local_session_history) == TRUE)
       {
-        local_session <- local_session_history[as.character(raw_data$session_id), "session_id"]
-        
-        if(local_session["is_checkout"] == 0)
+        if(local_session_history[as.character(raw_data$session_id), "is_checkout"] == 0)
         {
           #increment number of past events
-          if(local_session["n_past_events"] < MAX_N_EVENTS - 1)
+          if(local_session_history[as.character(raw_data$session_id), "n_past_events"] < (MAX_N_EVENTS - 1))
           {
-            local_session_history[as.character(local_session["session_id"]), "n_past_events"] <- 
-              local_session_history[as.character(local_session["session_id"]), "n_past_events"] + 1
+            local_session_history[as.character(raw_data$session_id), "n_past_events"] <- 
+              local_session_history[as.character(raw_data$session_id), "n_past_events"] + 1
             
             #adjust events distribution for current number of clicks
-            current_distribution <- events_distribution[local_session["n_past_events"]:MAX_N_EVENTS] / 
-              sum(events_distribution[local_session["n_past_events"]:MAX_N_EVENTS])
+            n_past_events <- local_session_history[as.character(raw_data$session_id), "n_past_events"]
+            
+            current_distribution <- events_distribution[n_past_events:MAX_N_EVENTS] / 
+              sum(events_distribution[n_past_events:MAX_N_EVENTS])
             
             #here one value from the beginnig is skipped in order to include probability 
             #this event will be the last
-            response <- as.numeric(local_session[(2 + local_session["n_past_events"] + 1):MAX_N_EVENTS] %*%
+            response <- as.numeric(local_session_history[as.character(raw_data$session_id), 
+                                                         (2 + n_past_events + 1):ncol(local_session_history)] %*%
                                      current_distribution[2:length(current_distribution)])
           } else
           {
+            #@this mght be improved
             print("Reached maximum number of events per session")
-            response <- 0.5 * local_session[2 + MAX_N_EVENTS]
+            response <- 0.5 * local_session_history[as.character(raw_data$session_id), 2 + MAX_N_EVENTS]
           }
         } else #there has already been checkout
         {
@@ -160,7 +162,7 @@ server <- function()
         mm <- sparse.model.matrix(~. -1, raw_data)[1:MAX_N_EVENTS, ]
         pred <- numeric()
         
-        if(raw_data$visitor_id %in% visitors_history$visitor_id)
+        if(current_visitor %in% visitors_history$visitor_id)
         {
           #@this might be improved
           print("Processing visitors' history...")
@@ -175,7 +177,7 @@ server <- function()
           pred <- predict(xgb_model_without_history, mm)
         }
         
-        response <- pred[2:length(pred)] %*% events_distribution[2:length(pred)]
+        response <- as.numeric(pred[2:length(pred)] %*% events_distribution[2:length(pred)])
         
         local_session_history <- rbind(local_session_history, c(1, 0, pred))
         rownames(local_session_history)[nrow(local_session_history)] <- current_session
