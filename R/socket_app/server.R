@@ -61,7 +61,7 @@ server <- function()
   while (TRUE)
   {
     #@check for stability
-    print(paste("Listening port", PORT, "..."))
+    print(paste0("Listening port ", PORT, "..."))
     con <- socketConnection(host = "localhost", port = PORT, blocking = TRUE, 
                             server = TRUE, open = "r+")
     
@@ -102,9 +102,8 @@ server <- function()
                                      current_distribution[2:length(current_distribution)])
           } else
           {
-            #@this mght be improved
             print("Reached maximum number of events per session")
-            response <- 0.5 * local_session_history[as.character(raw_data$session_id), 2 + MAX_N_EVENTS]
+            response <- 0.9 * local_session_history[as.character(raw_data$session_id), 2 + MAX_N_EVENTS]
           }
         } else #there has already been checkout
         {
@@ -195,6 +194,8 @@ server <- function()
       
       response <- "There has already been checkout in this session"
     }
+    
+    #@add optimized threshold for response
     
     #send predicted value to the socket
     writeLines(as.character(response), con)

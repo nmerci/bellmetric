@@ -135,8 +135,14 @@ write.csv(train_data, file="data/train_data.csv", row.names=F)
 #################################################################################################################
 
 #concatenate pages
-pages_sequence <- click_data[, .(page=list(c(page_id))), by="session_id"]
-pages_sequence$page <- lapply(pages_sequence$page, append, values=0)
+pages <- click_data[, .(page=list(c(page_id))), by="session_id"]
+pages <- c(0, unlist(lapply(pages$page, append, values=0)))
 
-#save pages_sequence in CSV format
-write.csv(unlist(pages_sequence$page), file="data/pages.csv", row.names=F)
+#calculate transition probability matrix
+pages <- data.table(prev_page=pages[1:(length(pages) - 1)], next_page=pages[2:length(pages)])
+transition_matrix <- xtabs(formula=~ prev_page + next_page, data=pages, sparse=T)
+transition_matrix <- transition_matrix / rowSums(transition_matrix)
+
+#save matrix in mtx format
+#@row and column names are not saved
+writeMM(transition_matrix, "data/transition_matrix.mtx")
